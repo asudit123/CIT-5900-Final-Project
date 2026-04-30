@@ -1,0 +1,1962 @@
+[
+  {
+    "case_id": "aime_001",
+    "benchmark": "aime",
+    "question": "Among the $900$ residents of Aimeville, there are $195$ who own a diamond ring, $367$ who own a set of golf clubs, and $562$ who own a garden spade. In addition, each of the $900$ residents owns a bag of candy hearts. There are $437$ residents who own exactly two of these things, and $234$ residents who own exactly three of these things. Find the number of residents of Aimeville who own all four of these things.",
+    "correct_answer": 73,
+    "year": 2024,
+    "part": "II",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_002",
+    "benchmark": "aime",
+    "question": "In acute triangle $ABC,$ points $P$ and $Q$ are the feet of the perpendiculars from $C$ to $\\overline{AB}$ and from $B$ to $\\overline{AC}$ , respectively. Line $PQ$ intersects the circumcircle of $\\triangle ABC$ in two distinct points, $X$ and $Y$ . Suppose $XP=10$ , $PQ=25$ , and $QY=15$ . The value of $AB\\cdot AC$ can be written in the form $m\\sqrt n$ where $m$ and $n$ are positive integers, and $n$ is not divisible by the square of any prime. Find $m+n$ .",
+    "correct_answer": 574,
+    "year": 2019,
+    "part": "II",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_003",
+    "benchmark": "aime",
+    "question": "In Pascal's Triangle, each entry is the sum of the two entries above it. The first few rows of the triangle are shown below. \\[\\begin{array}{c@{\\hspace{8em}} c@{\\hspace{6pt}}c@{\\hspace{6pt}}c@{\\hspace{6pt}}c@{\\hspace{4pt}}c@{\\hspace{2pt}} c@{\\hspace{2pt}}c@{\\hspace{2pt}}c@{\\hspace{2pt}}c@{\\hspace{3pt}}c@{\\hspace{6pt}} c@{\\hspace{6pt}}c@{\\hspace{6pt}}c} \\vspace{4pt} \\text{Row 0: } &    &    &     &     &    &    & 1 &     &     &    &    &    &  \\\\\\vspace{4pt} \\text{Row 1: } &    &    &     &     &    & 1 &    & 1  &     &    &    &    &  \\\\\\vspace{4pt} \\text{Row 2: } &    &    &     &     & 1 &    & 2 &     & 1  &    &    &    &  \\\\\\vspace{4pt} \\text{Row 3: } &    &    &     &  1 &    & 3 &    & 3  &     & 1 &    &    &  \\\\\\vspace{4pt} \\text{Row 4: } &    &    & 1  &     & 4 &    & 6 &     & 4  &    & 1 &    &  \\\\\\vspace{4pt} \\text{Row 5: } &    & 1 &     & 5  &    &10&    &10 &     & 5 &    & 1 &  \\\\\\vspace{4pt} \\text{Row 6: } & 1 &    & 6  &     &15&    &20&     &15 &    & 6 &    & 1 \\end{array}\\] In which row of Pascal's Triangle do three consecutive entries occur that are in the ratio $3: 4: 5$ ?",
+    "correct_answer": 62,
+    "year": 1992,
+    "part": "",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_004",
+    "benchmark": "aime",
+    "question": "Circles $C_1$ and $C_2$ are externally tangent, and they are both internally tangent to circle $C_3.$ The radii of $C_1$ and $C_2$ are 4 and 10, respectively, and the centers of the three circles are all collinear. A chord of $C_3$ is also a common external tangent of $C_1$ and $C_2.$ Given that the length of the chord is $\\frac{m\\sqrt{n}}p$ where $m,n,$ and $p$ are positive integers, $m$ and $p$ are relatively prime, and $n$ is not divisible by the square of any prime, find $m+n+p.$",
+    "correct_answer": 405,
+    "year": 2005,
+    "part": "II",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_005",
+    "benchmark": "aime",
+    "question": "During a recent campaign for office, a candidate made a tour of a country which we assume lies in a plane. On the first day of the tour he went east, on the second day he went north, on the third day west, on the fourth day south, on the fifth day east, etc. If the candidate went $\\frac{n^{2}}{2}$ miles on the $n^{\\mbox{th}}_{}$ day of this tour, how many miles was he from his starting point at the end of the $40^{\\mbox{th}}_{}$ day?",
+    "correct_answer": 580,
+    "year": 1993,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_006",
+    "benchmark": "aime",
+    "question": "Let $N$ denote the number of ordered triples of positive integers $(a, b, c)$ such that $a, b, c \\leq 3^6$ and $a^3 + b^3 + c^3$ is a multiple of $3^7$. Find the remainder when $N$ is divided by $1000$.",
+    "correct_answer": 735,
+    "year": 2025,
+    "part": "",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/simplescaling/aime25_nofigures"
+  },
+  {
+    "case_id": "aime_007",
+    "benchmark": "aime",
+    "question": "In an increasing sequence of four positive integers, the first three terms form an arithmetic progression, the last three terms form a geometric progression, and the first and fourth terms differ by $30.$ Find the sum of the four terms.",
+    "correct_answer": 129,
+    "year": 2003,
+    "part": "I",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_008",
+    "benchmark": "aime",
+    "question": "One hundred concentric circles with radii $1, 2, 3, \\dots, 100$ are drawn in a plane. The interior of the circle of radius 1 is colored red, and each region bounded by consecutive circles is colored either red or green, with no two adjacent regions the same color. The ratio of the total area of the green regions to the area of the circle of radius 100 can be expressed as $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m + n.$",
+    "correct_answer": 301,
+    "year": 2003,
+    "part": "I",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_009",
+    "benchmark": "aime",
+    "question": "In the adjoining figure, two circles with radii $8$ and $6$ are drawn with their centers $12$ units apart. At $P$ , one of the points of intersection, a line is drawn in such a way that the chords $QP$ and $PR$ have equal length. Find the square of the length of $QP$ . [asy]size(160); defaultpen(linewidth(.8pt)+fontsize(11pt)); dotfactor=3; pair O1=(0,0), O2=(12,0); path C1=Circle(O1,8), C2=Circle(O2,6); pair P=intersectionpoints(C1,C2)[0]; path C3=Circle(P,sqrt(130)); pair Q=intersectionpoints(C3,C1)[0]; pair R=intersectionpoints(C3,C2)[1]; draw(C1); draw(C2); draw(O2--O1); dot(O1); dot(O2); draw(Q--R); label(\"$Q$\",Q,NW); label(\"$P$\",P,1.5*dir(80)); label(\"$R$\",R,NE); label(\"12\",waypoint(O1--O2,0.4),S);[/asy]",
+    "correct_answer": 130,
+    "year": 1983,
+    "part": "",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_010",
+    "benchmark": "aime",
+    "question": "Determine the value of $ab$ if $\\log_8a+\\log_4b^2=5$ and $\\log_8b+\\log_4a^2=7$ .",
+    "correct_answer": 512,
+    "year": 1984,
+    "part": "",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_011",
+    "benchmark": "aime",
+    "question": "The Annual Interplanetary Mathematics Examination (AIME) is written by a committee of five Martians, five Venusians, and five Earthlings.  At meetings, committee members sit at a round table with chairs numbered from $1$ to $15$ in clockwise order.  Committee rules state that a Martian must occupy chair $1$ and an Earthling must occupy chair $15$ .  Furthermore, no Earthling can sit immediately to the left of a Martian, no Martian can sit immediately to the left of a Venusian, and no Venusian can sit immediately to the left of an Earthling.  The number of possible seating arrangements for the committee is $N \\cdot (5!)^3$ .  Find $N$ .",
+    "correct_answer": 346,
+    "year": 2009,
+    "part": "I",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_012",
+    "benchmark": "aime",
+    "question": "Ed and Sue bike at equal and constant rates.  Similarly, they jog at equal and constant rates, and they swim at equal and constant rates.  Ed covers $74$ kilometers after biking for $2$ hours, jogging for $3$ hours, and swimming for $4$ hours, while Sue covers $91$ kilometers after jogging for $2$ hours, swimming for $3$ hours, and biking for $4$ hours.  Their biking, jogging, and swimming rates are all whole numbers of kilometers per hour.  Find the sum of the squares of Ed's biking, jogging, and swimming rates.",
+    "correct_answer": 314,
+    "year": 2008,
+    "part": "I",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_013",
+    "benchmark": "aime",
+    "question": "Find the number of integers $c$ such that the equation \\[\\left||20|x|-x^2|-c\\right|=21\\] has $12$ distinct real solutions.",
+    "correct_answer": 57,
+    "year": 2021,
+    "part": "I",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_014",
+    "benchmark": "aime",
+    "question": "The complex number $z$ is equal to $9+bi$ , where $b$ is a positive real number and $i^{2}=-1$ .  Given that the imaginary parts of $z^{2}$ and $z^{3}$ are the same, what is $b$ equal to?",
+    "correct_answer": 15,
+    "year": 2007,
+    "part": "I",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_015",
+    "benchmark": "aime",
+    "question": "In $\\triangle ABC, AB = 3, BC = 4,$ and $CA = 5$ . Circle $\\omega$ intersects $\\overline{AB}$ at $E$ and $B, \\overline{BC}$ at $B$ and $D,$ and $\\overline{AC}$ at $F$ and $G$ . Given that $EF=DF$ and $\\frac{DG}{EG} = \\frac{3}{4},$ length $DE=\\frac{a\\sqrt{b}}{c},$ where $a$ and $c$ are relatively prime positive integers, and $b$ is a positive integer not divisible by the square of any prime. Find $a+b+c$ .",
+    "correct_answer": 41,
+    "year": 2014,
+    "part": "I",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_016",
+    "benchmark": "aime",
+    "question": "Let $m$ be the smallest integer whose cube root is of the form $n+r$ , where $n$ is a positive integer and $r$ is a positive real number less than $1/1000$ . Find $n$ .",
+    "correct_answer": 19,
+    "year": 1987,
+    "part": "",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_017",
+    "benchmark": "aime",
+    "question": "Find the number of triples of nonnegative integers $(a, b, c)$ satisfying $a + b + c = 300$ and \\[a^2 b + a^2 c + b^2 a + b^2 c + c^2 a + c^2 b = 6,000,000.\\]",
+    "correct_answer": 601,
+    "year": 2024,
+    "part": "II",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_018",
+    "benchmark": "aime",
+    "question": "When a certain biased coin is flipped five times, the probability of getting heads exactly once is not equal to $0$ and is the same as that of getting heads exactly twice. Let $\\frac ij^{}_{}$ , in lowest terms, be the probability that the coin comes up heads in exactly $3$ out of $5$ flips. Find $i+j^{}_{}$ .",
+    "correct_answer": 283,
+    "year": 1989,
+    "part": "",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_019",
+    "benchmark": "aime",
+    "question": "A convex polyhedron has for its faces 12 squares, 8 regular hexagons, and 6 regular octagons. At each vertex of the polyhedron one square, one hexagon, and one octagon meet. How many segments joining vertices of the polyhedron lie in the interior of the polyhedron rather than along an edge or a face?",
+    "correct_answer": 840,
+    "year": 1988,
+    "part": "",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_020",
+    "benchmark": "aime",
+    "question": "The real root of the equation $8x^3-3x^2-3x-1=0$ can be written in the form $\\frac{\\sqrt[3]{a}+\\sqrt[3]{b}+1}{c}$ , where $a$ , $b$ , and $c$ are positive integers. Find $a+b+c$ .",
+    "correct_answer": 98,
+    "year": 2013,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_021",
+    "benchmark": "aime",
+    "question": "Let $\\mathcal{T}$ be the set of ordered triples $(x,y,z)$ of nonnegative real numbers that lie in the plane $x+y+z=1.$ Let us say that $(x,y,z)$ supports $(a,b,c)$ when exactly two of the following are true: $x\\ge a, y\\ge b, z\\ge c.$ Let $\\mathcal{S}$ consist of those triples in $\\mathcal{T}$ that support $\\left(\\frac 12,\\frac 13,\\frac 16\\right).$ The area of $\\mathcal{S}$ divided by the area of $\\mathcal{T}$ is $m/n,$ where $m_{}$ and $n_{}$ are relatively prime positive integers, find $m+n.$",
+    "correct_answer": 25,
+    "year": 1999,
+    "part": "",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_022",
+    "benchmark": "aime",
+    "question": "Let $R$ be the set of all possible remainders when a number of the form $2^n$ , $n$ a nonnegative integer, is divided by 1000. Let $S$ be the sum of the elements in $R$ . Find the remainder when $S$ is divided by 1000.",
+    "correct_answer": 7,
+    "year": 2011,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_023",
+    "benchmark": "aime",
+    "question": "In an isosceles trapezoid, the parallel bases have lengths $\\log 3$ and $\\log 192$ , and the altitude to these bases has length $\\log 16$ . The perimeter of the trapezoid can be written in the form $\\log 2^p 3^q$ , where $p$ and $q$ are positive integers. Find $p + q$ .",
+    "correct_answer": 18,
+    "year": 2015,
+    "part": "II",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_024",
+    "benchmark": "aime",
+    "question": "In the diagram below, $ABCD$ is a rectangle with side lengths $AB=3$ and $BC=11$ , and $AECF$ is a rectangle with side lengths $AF=7$ and $FC=9,$ as shown. The area of the shaded region common to the interiors of both rectangles is $\\frac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . [asy] pair A, B, C, D, E, F; A = (0,3); B=(0,0); C=(11,0); D=(11,3); E=foot(C, A, (9/4,0)); F=foot(A, C, (35/4,3)); draw(A--B--C--D--cycle); draw(A--E--C--F--cycle); filldraw(A--(9/4,0)--C--(35/4,3)--cycle,gray*0.5+0.5*lightgray); dot(A^^B^^C^^D^^E^^F); label(\"$A$\", A, W); label(\"$B$\", B, W); label(\"$C$\", C, (1,0)); label(\"$D$\", D, (1,0)); label(\"$F$\", F, N); label(\"$E$\", E, S); [/asy]",
+    "correct_answer": 109,
+    "year": 2021,
+    "part": "I",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_025",
+    "benchmark": "aime",
+    "question": "Let $n$ be the number of ordered quadruples $(x_1,x_2,x_3,x_4)$ of positive odd integers that satisfy $\\sum_{i = 1}^4 x_i = 98.$ Find $\\frac n{100}.$",
+    "correct_answer": 196,
+    "year": 1998,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_026",
+    "benchmark": "aime",
+    "question": "Let $\\mathrm {P}$ be the product of the roots of $z^6+z^4+z^3+z^2+1=0$ that have a positive imaginary part, and suppose that $\\mathrm {P}=r(\\cos{\\theta^{\\circ}}+i\\sin{\\theta^{\\circ}})$ , where $0<r$ and $0\\leq \\theta <360$ . Find $\\theta$ .",
+    "correct_answer": 276,
+    "year": 1996,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_027",
+    "benchmark": "aime",
+    "question": "Consider the set of points that are inside or within one unit of a rectangular parallelepiped (box) that measures 3 by 4 by 5 units. Given that the volume of this set is $\\frac{m + n \\pi}{p},$ where $m, n,$ and $p$ are positive integers, and $n$ and $p$ are relatively prime, find $m + n + p.$",
+    "correct_answer": 505,
+    "year": 2003,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_028",
+    "benchmark": "aime",
+    "question": "Triangles $\\triangle ABC$ and $\\triangle A'B'C'$ lie in the coordinate plane with vertices $A(0,0)$ , $B(0,12)$ , $C(16,0)$ , $A'(24,18)$ , $B'(36,18)$ , $C'(24,2)$ . A rotation of $m$ degrees clockwise around the point $(x,y)$ where $0<m<180$ , will transform $\\triangle ABC$ to $\\triangle A'B'C'$ . Find $m+x+y$ .",
+    "correct_answer": 108,
+    "year": 2020,
+    "part": "II",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_029",
+    "benchmark": "aime",
+    "question": "Point $D$ lies on side $\\overline{BC}$ of $\\triangle ABC$ so that $\\overline{AD}$ bisects $\\angle BAC.$ The perpendicular bisector of $\\overline{AD}$ intersects the bisectors of $\\angle ABC$ and $\\angle ACB$ in points $E$ and $F,$ respectively. Given that $AB=4,BC=5,$ and $CA=6,$ the area of $\\triangle AEF$ can be written as $\\tfrac{m\\sqrt{n}}p,$ where $m$ and $p$ are relatively prime positive integers, and $n$ is a positive integer not divisible by the square of any prime. Find $m+n+p$ .",
+    "correct_answer": 36,
+    "year": 2020,
+    "part": "I",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_030",
+    "benchmark": "aime",
+    "question": "Find the remainder when \\[\\binom{\\binom{3}{2}}{2} + \\binom{\\binom{4}{2}}{2} + \\dots +  \\binom{\\binom{40}{2}}{2}\\] is divided by $1000$ .",
+    "correct_answer": 4,
+    "year": 2022,
+    "part": "II",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_031",
+    "benchmark": "aime",
+    "question": "A car travels due east at $\\frac 23$ miles per minute on a long, straight road. At the same time, a circular storm, whose radius is $51$ miles, moves southeast at $\\frac 12\\sqrt{2}$ miles per minute. At time $t=0$ , the center of the storm is $110$ miles due north of the car. At time $t=t_1$ minutes, the car enters the storm circle, and at time $t=t_2$ minutes, the car leaves the storm circle. Find $\\frac 12(t_1+t_2)$ .",
+    "correct_answer": 198,
+    "year": 1997,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_032",
+    "benchmark": "aime",
+    "question": "For every $m \\geq 2$ , let $Q(m)$ be the least positive integer with the following property: For every $n \\geq Q(m)$ , there is always a perfect cube $k^3$ in the range $n < k^3 \\leq mn$ . Find the remainder when \\[\\sum_{m = 2}^{2017} Q(m)\\] is divided by $1000$ .",
+    "correct_answer": 59,
+    "year": 2017,
+    "part": "I",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_033",
+    "benchmark": "aime",
+    "question": "What is that largest positive integer $n$ for which $n^3+100$ is divisible by $n+10$ ?",
+    "correct_answer": 890,
+    "year": 1986,
+    "part": "",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_034",
+    "benchmark": "aime",
+    "question": "The perimeter of triangle $APM$ is $152$ , and the angle $PAM$ is a right angle. A circle of radius $19$ with center $O$ on $\\overline{AP}$ is drawn so that it is tangent to $\\overline{AM}$ and $\\overline{PM}$ . Given that $OP=m/n$ where $m$ and $n$ are relatively prime positive integers, find $m+n$ .",
+    "correct_answer": 98,
+    "year": 2002,
+    "part": "II",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_035",
+    "benchmark": "aime",
+    "question": "Three circles, each of radius $3$ , are drawn with centers at $(14, 92)$ , $(17, 76)$ , and $(19, 84)$ . A line passing through $(17,76)$ is such that the total area of the parts of the three circles to one side of the line is equal to the total area of the parts of the three circles to the other side of it. What is the absolute value of the slope of this line?",
+    "correct_answer": 24,
+    "year": 1984,
+    "part": "",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_036",
+    "benchmark": "aime",
+    "question": "What is the product of the real roots of the equation $x^2 + 18x + 30 = 2 \\sqrt{x^2 + 18x + 45}$ ?",
+    "correct_answer": 20,
+    "year": 1983,
+    "part": "",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_037",
+    "benchmark": "aime",
+    "question": "Let $ABCD$ be a square, and let $E$ and $F$ be points on $\\overline{AB}$ and $\\overline{BC},$ respectively. The line through $E$ parallel to $\\overline{BC}$ and the line through $F$ parallel to $\\overline{AB}$ divide $ABCD$ into two squares and two nonsquare rectangles. The sum of the areas of the two squares is $\\frac{9}{10}$ of the area of square $ABCD.$ Find $\\frac{AE}{EB} + \\frac{EB}{AE}.$",
+    "correct_answer": 18,
+    "year": 2013,
+    "part": "I",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_038",
+    "benchmark": "aime",
+    "question": "Let $S^{}_{}$ be the set of all rational numbers $r^{}_{}$ , $0^{}_{}<r<1$ , that have a repeating decimal expansion in the form $0.abcabcabc\\ldots=0.\\overline{abc}$ , where the digits $a^{}_{}$ , $b^{}_{}$ , and $c^{}_{}$ are not necessarily distinct. To write the elements of $S^{}_{}$ as fractions in lowest terms, how many different numerators are required?",
+    "correct_answer": 660,
+    "year": 1992,
+    "part": "",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_039",
+    "benchmark": "aime",
+    "question": "Find the least positive integer $n$ such that when $3^n$ is written in base $143$ , its two right-most digits in base $143$ are $01$ .",
+    "correct_answer": 195,
+    "year": 2018,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_040",
+    "benchmark": "aime",
+    "question": "A right rectangular prism $P_{}$ (i.e., a rectangular parallelepiped) has sides of integral length $a, b, c,$ with $a\\le b\\le c.$ A plane parallel to one of the faces of $P_{}$ cuts $P_{}$ into two prisms, one of which is similar to $P_{},$ and both of which have nonzero volume.  Given that $b=1995,$ for how many ordered triples $(a, b, c)$ does such a plane exist?",
+    "correct_answer": 40,
+    "year": 1995,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_041",
+    "benchmark": "aime",
+    "question": "Let $v$ and $w$ be distinct, randomly chosen roots of the equation $z^{1997}-1=0$ . Let $m/n$ be the probability that $\\sqrt{2+\\sqrt{3}}\\le |v+w|$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "correct_answer": 582,
+    "year": 1997,
+    "part": "",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_042",
+    "benchmark": "aime",
+    "question": "Given a point $P^{}_{}$ on a triangular piece of paper $ABC,\\,$ consider the creases that are formed in the paper when $A, B,\\,$ and $C\\,$ are folded onto $P.\\,$ Let us call $P_{}^{}$ a fold point of $\\triangle ABC\\,$ if these creases, which number three unless $P^{}_{}$ is one of the vertices, do not intersect.  Suppose that $AB=36, AC=72,\\,$ and $\\angle B=90^\\circ.\\,$ Then the area of the set of all fold points of $\\triangle ABC\\,$ can be written in the form $q\\pi-r\\sqrt{s},\\,$ where $q, r,\\,$ and $s\\,$ are positive integers and $s\\,$ is not divisible by the square of any prime.  What is $q+r+s\\,$ ?",
+    "correct_answer": 597,
+    "year": 1994,
+    "part": "",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_043",
+    "benchmark": "aime",
+    "question": "The diagram shows a rectangle that has been dissected into nine non-overlapping squares. Given that the width and the height of the rectangle are relatively prime positive integers, find the perimeter of the rectangle. [asy]defaultpen(linewidth(0.7)); draw((0,0)--(69,0)--(69,61)--(0,61)--(0,0));draw((36,0)--(36,36)--(0,36)); draw((36,33)--(69,33));draw((41,33)--(41,61));draw((25,36)--(25,61)); draw((34,36)--(34,45)--(25,45)); draw((36,36)--(36,38)--(34,38)); draw((36,38)--(41,38)); draw((34,45)--(41,45));[/asy]",
+    "correct_answer": 260,
+    "year": 2000,
+    "part": "I",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_044",
+    "benchmark": "aime",
+    "question": "Let $A$ be the set of positive integer divisors of $2025$. Let $B$ be a randomly selected subset of $A$. The probability that $B$ is a nonempty set with the property that the least common multiple of its element is $2025$ is $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.",
+    "correct_answer": 237,
+    "year": 2025,
+    "part": "",
+    "problem_number": 21,
+    "source": "https://huggingface.co/datasets/simplescaling/aime25_nofigures"
+  },
+  {
+    "case_id": "aime_045",
+    "benchmark": "aime",
+    "question": "The terms of an arithmetic sequence add to $715$ . The first term of the sequence is increased by $1$ , the second term is increased by $3$ , the third term is increased by $5$ , and in general, the $k$ th term is increased by the $k$ th odd positive integer. The terms of the new sequence add to $836$ . Find the sum of the first, last, and middle term of the original sequence.",
+    "correct_answer": 195,
+    "year": 2012,
+    "part": "I",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_046",
+    "benchmark": "aime",
+    "question": "Let $P(x)$ be a nonzero polynomial such that $(x-1)P(x+1)=(x+2)P(x)$ for every real $x$ , and $\\left(P(2)\\right)^2 = P(3)$ . Then $P(\\tfrac72)=\\tfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "correct_answer": 109,
+    "year": 2016,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_047",
+    "benchmark": "aime",
+    "question": "Find the number of rectangles that can be formed inside a fixed regular dodecagon ( $12$ -gon) where each side of the rectangle lies on either a side or a diagonal of the dodecagon. The diagram below shows three of those rectangles. [asy] unitsize(0.6 inch); for(int i=0; i<360; i+=30) { dot(dir(i), 4+black); draw(dir(i)--dir(i+30)); } draw(dir(120)--dir(330)); filldraw(dir(210)--dir(240)--dir(30)--dir(60)--cycle, mediumgray, linewidth(1.5)); draw((0,0.366)--(0.366,0), linewidth(1.5)); [/asy]",
+    "correct_answer": 315,
+    "year": 2024,
+    "part": "II",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_048",
+    "benchmark": "aime",
+    "question": "Let $ABCD$ be a parallelogram .  Extend $\\overline{DA}$ through $A$ to a point $P,$ and let $\\overline{PC}$ meet $\\overline{AB}$ at $Q$ and $\\overline{DB}$ at $R.$ Given that $PQ = 735$ and $QR = 112,$ find $RC.$",
+    "correct_answer": 308,
+    "year": 1998,
+    "part": "",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_049",
+    "benchmark": "aime",
+    "question": "In $\\triangle ABC$ with side lengths $AB = 13,$ $BC = 14,$ and $CA = 15,$ let $M$ be the midpoint of $\\overline{BC}.$ Let $P$ be the point on the circumcircle of $\\triangle ABC$ such that $M$ is on $\\overline{AP}.$ There exists a unique point $Q$ on segment $\\overline{AM}$ such that $\\angle PBQ = \\angle PCQ.$ Then $AQ$ can be written as $\\frac{m}{\\sqrt{n}},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+    "correct_answer": 247,
+    "year": 2023,
+    "part": "II",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_050",
+    "benchmark": "aime",
+    "question": "Circles $\\mathcal{C}_1, \\mathcal{C}_2,$ and $\\mathcal{C}_3$ have their centers at (0,0), (12,0), and (24,0), and have radii 1, 2, and 4, respectively. Line $t_1$ is a common internal tangent to $\\mathcal{C}_1$ and $\\mathcal{C}_2$ and has a positive slope, and line $t_2$ is a common internal tangent to $\\mathcal{C}_2$ and $\\mathcal{C}_3$ and has a negative slope. Given that lines $t_1$ and $t_2$ intersect at $(x,y),$ and that $x=p-q\\sqrt{r},$ where $p, q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p+q+r.$",
+    "correct_answer": 27,
+    "year": 2006,
+    "part": "II",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_051",
+    "benchmark": "aime",
+    "question": "For any positive integer $k$ , let $f_1(k)$ denote the square of the sum of the digits of $k$ .  For $n \\ge 2$ , let $f_n(k) = f_1(f_{n - 1}(k))$ .  Find $f_{1988}(11)$ .",
+    "correct_answer": 169,
+    "year": 1988,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_052",
+    "benchmark": "aime",
+    "question": "Let the set $\\mathcal{S} = \\{8, 5, 1, 13, 34, 3, 21, 2\\}.$ Susan makes a list as follows: for each two-element subset of $\\mathcal{S},$ she writes on her list the greater of the set's two elements. Find the sum of the numbers on the list.",
+    "correct_answer": 484,
+    "year": 2003,
+    "part": "I",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_053",
+    "benchmark": "aime",
+    "question": "On square $ABCD$ , points $E,F,G$ , and $H$ lie on sides $\\overline{AB},\\overline{BC},\\overline{CD},$ and $\\overline{DA},$ respectively, so that $\\overline{EG} \\perp \\overline{FH}$ and $EG=FH = 34$ . Segments $\\overline{EG}$ and $\\overline{FH}$ intersect at a point $P$ , and the areas of the quadrilaterals $AEPH, BFPE, CGPF,$ and $DHPG$ are in the ratio $269:275:405:411.$ Find the area of square $ABCD$ . [asy] pair A = (0,sqrt(850)); pair B = (0,0); pair C = (sqrt(850),0); pair D = (sqrt(850),sqrt(850)); draw(A--B--C--D--cycle); dotfactor = 3; dot(\"$A$\",A,dir(135)); dot(\"$B$\",B,dir(215)); dot(\"$C$\",C,dir(305)); dot(\"$D$\",D,dir(45)); pair H = ((2sqrt(850)-sqrt(306))/6,sqrt(850)); pair F = ((2sqrt(850)+sqrt(306)+7)/6,0); dot(\"$H$\",H,dir(90)); dot(\"$F$\",F,dir(270)); draw(H--F); pair E = (0,(sqrt(850)-6)/2); pair G = (sqrt(850),(sqrt(850)+sqrt(100))/2); dot(\"$E$\",E,dir(180)); dot(\"$G$\",G,dir(0)); draw(E--G); pair P = extension(H,F,E,G); dot(\"$P$\",P,dir(60)); label(\"$w$\", intersectionpoint( A--P, E--H )); label(\"$x$\", intersectionpoint( B--P, E--F )); label(\"$y$\", intersectionpoint( C--P, G--F )); label(\"$z$\", intersectionpoint( D--P, G--H ));[/asy]",
+    "correct_answer": 850,
+    "year": 2014,
+    "part": "I",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_054",
+    "benchmark": "aime",
+    "question": "Find $a$ if $a$ and $b$ are integers such that $x^2 - x - 1$ is a factor of $ax^{17} + bx^{16} + 1$ .",
+    "correct_answer": 987,
+    "year": 1988,
+    "part": "",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_055",
+    "benchmark": "aime",
+    "question": "A circle is inscribed in quadrilateral $ABCD$ , tangent to $\\overline{AB}$ at $P$ and to $\\overline{CD}$ at $Q$ . Given that $AP=19$ , $PB=26$ , $CQ=37$ , and $QD=23$ , find the square of the radius of the circle.",
+    "correct_answer": 647,
+    "year": 2000,
+    "part": "II",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_056",
+    "benchmark": "aime",
+    "question": "Call a three-term strictly increasing arithmetic sequence of integers special if the sum of the squares of the three terms equals the product of the middle term and the square of the common difference. Find the sum of the third terms of all special sequences. ",
+    "correct_answer": 31,
+    "year": 2021,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_057",
+    "benchmark": "aime",
+    "question": "In triangle $ABC$ , $AC=13$ , $BC=14$ , and $AB=15$ . Points $M$ and $D$ lie on $AC$ with $AM=MC$ and $\\angle ABD = \\angle DBC$ . Points $N$ and $E$ lie on $AB$ with $AN=NB$ and $\\angle ACE = \\angle ECB$ . Let $P$ be the point, other than $A$ , of intersection of the circumcircles of $\\triangle AMN$ and $\\triangle ADE$ . Ray $AP$ meets $BC$ at $Q$ . The ratio $\\frac{BQ}{CQ}$ can be written in the form $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m-n$ .",
+    "correct_answer": 218,
+    "year": 2010,
+    "part": "II",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_058",
+    "benchmark": "aime",
+    "question": "A moving particle starts at the point $(4,4)$ and moves until it hits one of the coordinate axes for the first time. When the particle is at the point $(a,b)$ , it moves at random to one of the points $(a-1,b)$ , $(a,b-1)$ , or $(a-1,b-1)$ , each with probability $\\tfrac{1}{3}$ , independently of its previous moves. The probability that it will hit the coordinate axes at $(0,0)$ is $\\tfrac{m}{3^n}$ , where $m$ and $n$ are positive integers, and $m$ is not divisible by $3$ . Find $m + n$ .",
+    "correct_answer": 252,
+    "year": 2019,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_059",
+    "benchmark": "aime",
+    "question": "A block of wood has the shape of a right circular cylinder with radius $6$ and height $8$ , and its entire surface has been painted blue.  Points $A$ and $B$ are chosen on the edge of one of the circular faces of the cylinder so that $\\overarc{AB}$ on that face measures $120^\\text{o}$ .  The block is then sliced in half along the plane that passes through point $A$ , point $B$ , and the center of the cylinder, revealing a flat, unpainted face on each half.  The area of one of these unpainted faces is $a\\cdot\\pi + b\\sqrt{c}$ , where $a$ , $b$ , and $c$ are integers and $c$ is not divisible by the square of any prime.  Find $a+b+c$ . [asy] import three; import solids; size(8cm); currentprojection=orthographic(-1,-5,3);  picture lpic, rpic;  size(lpic,5cm); draw(lpic,surface(revolution((0,0,0),(-3,3*sqrt(3),0)..(0,6,4)..(3,3*sqrt(3),8),Z,0,120)),gray(0.7),nolight); draw(lpic,surface(revolution((0,0,0),(-3*sqrt(3),-3,8)..(-6,0,4)..(-3*sqrt(3),3,0),Z,0,90)),gray(0.7),nolight); draw(lpic,surface((3,3*sqrt(3),8)..(-6,0,8)..(3,-3*sqrt(3),8)--cycle),gray(0.7),nolight); draw(lpic,(3,-3*sqrt(3),8)..(-6,0,8)..(3,3*sqrt(3),8)); draw(lpic,(-3,3*sqrt(3),0)--(-3,-3*sqrt(3),0),dashed); draw(lpic,(3,3*sqrt(3),8)..(0,6,4)..(-3,3*sqrt(3),0)--(-3,3*sqrt(3),0)..(-3*sqrt(3),3,0)..(-6,0,0),dashed); draw(lpic,(3,3*sqrt(3),8)--(3,-3*sqrt(3),8)..(0,-6,4)..(-3,-3*sqrt(3),0)--(-3,-3*sqrt(3),0)..(-3*sqrt(3),-3,0)..(-6,0,0)); draw(lpic,(6*cos(atan(-1/5)+3.14159),6*sin(atan(-1/5)+3.14159),0)--(6*cos(atan(-1/5)+3.14159),6*sin(atan(-1/5)+3.14159),8));  size(rpic,5cm); draw(rpic,surface(revolution((0,0,0),(3,3*sqrt(3),8)..(0,6,4)..(-3,3*sqrt(3),0),Z,230,360)),gray(0.7),nolight); draw(rpic,surface((-3,3*sqrt(3),0)..(6,0,0)..(-3,-3*sqrt(3),0)--cycle),gray(0.7),nolight); draw(rpic,surface((-3,3*sqrt(3),0)..(0,6,4)..(3,3*sqrt(3),8)--(3,3*sqrt(3),8)--(3,-3*sqrt(3),8)--(3,-3*sqrt(3),8)..(0,-6,4)..(-3,-3*sqrt(3),0)--cycle),white,nolight); draw(rpic,(-3,-3*sqrt(3),0)..(-6*cos(atan(-1/5)+3.14159),-6*sin(atan(-1/5)+3.14159),0)..(6,0,0)); draw(rpic,(-6*cos(atan(-1/5)+3.14159),-6*sin(atan(-1/5)+3.14159),0)..(6,0,0)..(-3,3*sqrt(3),0),dashed); draw(rpic,(3,3*sqrt(3),8)--(3,-3*sqrt(3),8)); draw(rpic,(-3,3*sqrt(3),0)..(0,6,4)..(3,3*sqrt(3),8)--(3,3*sqrt(3),8)..(3*sqrt(3),3,8)..(6,0,8)); draw(rpic,(-3,3*sqrt(3),0)--(-3,-3*sqrt(3),0)..(0,-6,4)..(3,-3*sqrt(3),8)--(3,-3*sqrt(3),8)..(3*sqrt(3),-3,8)..(6,0,8)); draw(rpic,(-6*cos(atan(-1/5)+3.14159),-6*sin(atan(-1/5)+3.14159),0)--(-6*cos(atan(-1/5)+3.14159),-6*sin(atan(-1/5)+3.14159),8)); label(rpic,\"$A$\",(-3,3*sqrt(3),0),W); label(rpic,\"$B$\",(-3,-3*sqrt(3),0),W);  add(lpic.fit(),(0,0)); add(rpic.fit(),(1,0)); [/asy]",
+    "correct_answer": 53,
+    "year": 2015,
+    "part": "I",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_060",
+    "benchmark": "aime",
+    "question": "There are $N$ permutations $(a_1, a_2, \\dots, a_{30})$ of $1, 2, \\dots, 30$ such that for $m \\in \\{2,3,5\\}$ , $m$ divides $a_{n+m} - a_n$ for all integers $n$ with $1 \\le n < n+m \\le 30$ . Find the remainder when $N$ is divided by 1000.",
+    "correct_answer": 440,
+    "year": 2011,
+    "part": "II",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_061",
+    "benchmark": "aime",
+    "question": "While watching a show, Ayako, Billy, Carlos, Dahlia, Ehuang, and Frank sat in that order in a row of six chairs. During the break, they went to the kitchen for a snack. When they came back, they sat on those six chairs in such a way that if two of them sat next to each other before the break, then they did not sit next to each other after the break. Find the number of possible seating orders they could have chosen after the break. ",
+    "correct_answer": 90,
+    "year": 2020,
+    "part": "II",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_062",
+    "benchmark": "aime",
+    "question": "Find the value of $10\\cot(\\cot^{-1}3+\\cot^{-1}7+\\cot^{-1}13+\\cot^{-1}21).$",
+    "correct_answer": 15,
+    "year": 1984,
+    "part": "",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_063",
+    "benchmark": "aime",
+    "question": "A container in the shape of a right circular cone is 12 inches tall and its base has a 5-inch radius. The liquid that is sealed inside is 9 inches deep when the cone is held with its point down and its base horizontal. When the liquid is held with its point up and its base horizontal, the height of the liquid is $m - n\\sqrt [3]{p},$ where $m,$ $n,$ and $p$ are positive integers and $p$ is not divisible by the cube of any prime number. Find $m + n + p$ .",
+    "correct_answer": 52,
+    "year": 2000,
+    "part": "I",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_064",
+    "benchmark": "aime",
+    "question": "Twenty five of King Arthur's knights are seated at their customary round table. Three of them are chosen - all choices being equally likely - and are sent off to slay a troublesome dragon. Let $P$ be the probability that at least two of the three had been sitting next to each other. If $P$ is written as a fraction in lowest terms, what is the sum of the numerator and denominator? ",
+    "correct_answer": 57,
+    "year": 1983,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_065",
+    "benchmark": "aime",
+    "question": "Three $12$ cm $\\times 12$ cm squares are each cut into two pieces $A$ and $B$ , as shown in the first figure below, by joining the midpoints of two adjacent sides. These six pieces are then attached to a regular hexagon , as shown in the second figure, so as to fold into a polyhedron . What is the volume (in $\\mathrm{cm}^3$ ) of this polyhedron? AIME 1985 Problem 15.png",
+    "correct_answer": 864,
+    "year": 1985,
+    "part": "",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_066",
+    "benchmark": "aime",
+    "question": "Six congruent circles form a ring with each circle externally tangent to two circles adjacent to it. All circles are internally tangent to a circle $C$ with radius 30. Let $K$ be the area of the region inside circle $C$ and outside of the six circles in the ring. Find $\\lfloor K \\rfloor.$",
+    "correct_answer": 942,
+    "year": 2005,
+    "part": "I",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_067",
+    "benchmark": "aime",
+    "question": "A frog begins at $P_0 = (0,0)$ and makes a sequence of jumps according to the following rule: from $P_n = (x_n, y_n),$ the frog jumps to $P_{n+1},$ which may be any of the points $(x_n + 7, y_n + 2),$ $(x_n + 2, y_n + 7),$ $(x_n - 5, y_n - 10),$ or $(x_n - 10, y_n - 5).$ There are $M$ points $(x, y)$ with $|x| + |y| \\le 100$ that can be reached by a sequence of such jumps. Find the remainder when $M$ is divided by $1000.$",
+    "correct_answer": 373,
+    "year": 2012,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_068",
+    "benchmark": "aime",
+    "question": "Someone observed that $6! = 8 \\cdot 9 \\cdot 10$ .  Find the largest positive integer $n^{}_{}$ for which $n^{}_{}!$ can be expressed as the product of $n - 3_{}^{}$ consecutive positive integers.",
+    "correct_answer": 23,
+    "year": 1990,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_069",
+    "benchmark": "aime",
+    "question": "The sequence $a_1, a_2, \\ldots$ is geometric with $a_1=a$ and common ratio $r,$ where $a$ and $r$ are positive integers. Given that $\\log_8 a_1+\\log_8 a_2+\\cdots+\\log_8 a_{12} = 2006,$ find the number of possible ordered pairs $(a,r).$",
+    "correct_answer": 46,
+    "year": 2006,
+    "part": "I",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_070",
+    "benchmark": "aime",
+    "question": "A right circular cone has base radius $r$ and height $h$ .  The cone lies on its side on a flat table.  As the cone rolls on the surface of the table without slipping, the point where the cone's base meets the table traces a circular arc centered  at the point where the vertex touches the table.  The cone first returns to its original position on the table after making $17$ complete rotations.  The value of $h/r$ can be written in the form $m\\sqrt {n}$ , where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime.  Find $m + n$ .",
+    "correct_answer": 14,
+    "year": 2008,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_071",
+    "benchmark": "aime",
+    "question": "What is the largest possible distance between two points, one on the sphere of radius 19 with center $(-2,-10,5),$ and the other on the sphere of radius 87 with center $(12,8,-16)$ ?",
+    "correct_answer": 137,
+    "year": 1987,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_072",
+    "benchmark": "aime",
+    "question": "Let $C$ be the graph of $xy = 1$ , and denote by $C^*$ the reflection of $C$ in the line $y = 2x$ . Let the equation of $C^*$ be written in the form \\[12x^2 + bxy + cy^2 + d = 0.\\] Find the product $bc$ .",
+    "correct_answer": 84,
+    "year": 1988,
+    "part": "",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_073",
+    "benchmark": "aime",
+    "question": "Find the value of $(52+6\\sqrt{43})^{3/2}-(52-6\\sqrt{43})^{3/2}$ .",
+    "correct_answer": 828,
+    "year": 1990,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_074",
+    "benchmark": "aime",
+    "question": "Sarah intended to multiply a two-digit number and a three-digit number, but she left out the multiplication sign and simply placed the two-digit number to the left of the three-digit number, thereby forming a five-digit number.  This number is exactly nine times the product Sarah should have obtained.  What is the sum of the two-digit number and the three-digit number? ",
+    "correct_answer": 126,
+    "year": 1997,
+    "part": "",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_075",
+    "benchmark": "aime",
+    "question": "Given that $x, y,$ and $z$ are real numbers that satisfy: \\begin{align*} x &= \\sqrt{y^2-\\frac{1}{16}}+\\sqrt{z^2-\\frac{1}{16}}, \\\\ y &= \\sqrt{z^2-\\frac{1}{25}}+\\sqrt{x^2-\\frac{1}{25}}, \\\\ z &= \\sqrt{x^2 - \\frac 1{36}}+\\sqrt{y^2-\\frac 1{36}}, \\end{align*} and that $x+y+z = \\frac{m}{\\sqrt{n}},$ where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime, find $m+n.$",
+    "correct_answer": 9,
+    "year": 2006,
+    "part": "II",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_076",
+    "benchmark": "aime",
+    "question": "Find the smallest prime that is the fifth term of an increasing arithmetic sequence, all four preceding terms also being prime. ",
+    "correct_answer": 29,
+    "year": 1999,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_077",
+    "benchmark": "aime",
+    "question": "Let $P(x)$ be a polynomial with integer coefficients that satisfies $P(17)=10$ and $P(24)=17.$ Given that $P(n)=n+3$ has two distinct integer solutions $n_1$ and $n_2,$ find the product $n_1\\cdot n_2.$",
+    "correct_answer": 418,
+    "year": 2005,
+    "part": "II",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_078",
+    "benchmark": "aime",
+    "question": "A regular hexagon with center at the origin in the complex plane has opposite pairs of sides one unit apart. One pair of sides is parallel to the imaginary axis. Let $R$ be the region outside the hexagon, and let $S = \\left\\lbrace\\frac{1}{z}|z \\in R\\right\\rbrace$ . Then the area of $S$ has the form $a\\pi + \\sqrt{b}$ , where $a$ and $b$ are positive integers. Find $a + b$ .",
+    "correct_answer": 29,
+    "year": 2008,
+    "part": "II",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_079",
+    "benchmark": "aime",
+    "question": "What is the sum of the solutions to the equation $\\sqrt[4]{x} = \\frac{12}{7 - \\sqrt[4]{x}}$ ?",
+    "correct_answer": 337,
+    "year": 1986,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_080",
+    "benchmark": "aime",
+    "question": "A right prism with height $h$ has bases that are regular hexagons with sides of length $12$ . A vertex $A$ of the prism and its three adjacent vertices are the vertices of a triangular pyramid. The dihedral angle (the angle between the two planes) formed by the face of the pyramid that lies in a base of the prism and the face of the pyramid that does not contain $A$ measures $60^\\circ$ . Find $h^2$ .",
+    "correct_answer": 108,
+    "year": 2016,
+    "part": "I",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_081",
+    "benchmark": "aime",
+    "question": "The increasing geometric sequence $x_{0},x_{1},x_{2},\\ldots$ consists entirely of integral powers of $3.$ Given that $\\sum_{n=0}^{7}\\log_{3}(x_{n}) = 308$ and $56 \\leq \\log_{3}\\left ( \\sum_{n=0}^{7}x_{n}\\right ) \\leq 57,$ find $\\log_{3}(x_{14}).$",
+    "correct_answer": 91,
+    "year": 2007,
+    "part": "II",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_082",
+    "benchmark": "aime",
+    "question": "Assume that $a$ , $b$ , $c$ and $d$ are positive integers such that $a^5 = b^4$ , $c^3 = d^2$ and $c - a = 19$ . Determine $d - b$ .",
+    "correct_answer": 757,
+    "year": 1985,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_083",
+    "benchmark": "aime",
+    "question": "Let the sum of a set of numbers be the sum of its elements. Let $S$ be a set of positive integers, none greater than 15. Suppose no two disjoint subsets of $S$ have the same sum. What is the largest sum a set $S$ with these properties can have?",
+    "correct_answer": 61,
+    "year": 1986,
+    "part": "",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_084",
+    "benchmark": "aime",
+    "question": "Let $ABC$ be a triangle with sides 3, 4, and 5, and $DEFG$ be a 6-by-7 rectangle. A segment is drawn to divide triangle $ABC$ into a triangle $U_1$ and a trapezoid $V_1$ and another segment is drawn to divide rectangle $DEFG$ into a triangle $U_2$ and a trapezoid $V_2$ such that $U_1$ is similar to $U_2$ and $V_1$ is similar to $V_2.$ The minimum value of the area of $U_1$ can be written in the form $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+    "correct_answer": 35,
+    "year": 2004,
+    "part": "I",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_085",
+    "benchmark": "aime",
+    "question": "In equilateral $\\triangle ABC$ let points $D$ and $E$ trisect $\\overline{BC}$ . Then $\\sin(\\angle DAE)$ can be expressed in the form $\\frac{a\\sqrt{b}}{c}$ , where $a$ and $c$ are relatively prime positive integers, and $b$ is an integer that is not divisible by the square of any prime. Find $a+b+c$ . ",
+    "correct_answer": 20,
+    "year": 2013,
+    "part": "II",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_086",
+    "benchmark": "aime",
+    "question": "Rectangle $ABCD$ has side lengths $AB=84$ and $AD=42$ . Point $M$ is the midpoint of $\\overline{AD}$ , point $N$ is the trisection point of $\\overline{AB}$ closer to $A$ , and point $O$ is the intersection of $\\overline{CM}$ and $\\overline{DN}$ . Point $P$ lies on the quadrilateral $BCON$ , and $\\overline{BP}$ bisects the area of $BCON$ . Find the area of $\\triangle CDP$ .",
+    "correct_answer": 546,
+    "year": 2017,
+    "part": "II",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_087",
+    "benchmark": "aime",
+    "question": "The set of points in $3$-dimensional coordinate space that lie in the plane $x+y+z=75$ whose coordinates satisfy the inequalities\\[x-yz<y-zx<z-xy\\]forms three disjoint convex regions. Exactly one of those regions has finite area. The area of this finite region can be expressed in the form $a\\sqrt{b},$ where $a$ and $b$ are positive integers and $b$ is not divisible by the square of any prime. Find $a+b$.",
+    "correct_answer": 510,
+    "year": 2025,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/simplescaling/aime25_nofigures"
+  },
+  {
+    "case_id": "aime_088",
+    "benchmark": "aime",
+    "question": "Ana, Bob, and Cao bike at constant rates of $8.6$ meters per second, $6.2$ meters per second, and $5$ meters per second, respectively. They all begin biking at the same time from the northeast corner of a rectangular field whose longer side runs due west. Ana starts biking along the edge of the field, initially heading west, Bob starts biking along the edge of the field, initially heading south, and Cao bikes in a straight line across the field to a point $D$ on the south edge of the field. Cao arrives at point $D$ at the same time that Ana and Bob arrive at $D$ for the first time. The ratio of the field's length to the field's width to the distance from point $D$ to the southeast corner of the field can be represented as $p\u00a0: q\u00a0: r$ , where $p$ , $q$ , and $r$ are positive integers with $p$ and $q$ relatively prime. Find $p+q+r$ .",
+    "correct_answer": 61,
+    "year": 2012,
+    "part": "II",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_089",
+    "benchmark": "aime",
+    "question": "The incircle $\\omega$ of triangle $ABC$ is tangent to $\\overline{BC}$ at $X$ . Let $Y \\neq X$ be the other intersection of $\\overline{AX}$ with $\\omega$ . Points $P$ and $Q$ lie on $\\overline{AB}$ and $\\overline{AC}$ , respectively, so that $\\overline{PQ}$ is tangent to $\\omega$ at $Y$ . Assume that $AP = 3$ , $PB = 4$ , $AC = 8$ , and $AQ = \\dfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "correct_answer": 227,
+    "year": 2018,
+    "part": "II",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_090",
+    "benchmark": "aime",
+    "question": "Find $x^2+y^2_{}$ if $x_{}^{}$ and $y_{}^{}$ are positive integers such that \\begin{align*} xy+x+y&=71, \\\\ x^2y+xy^2&=880. \\end{align*}",
+    "correct_answer": 146,
+    "year": 1991,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_091",
+    "benchmark": "aime",
+    "question": "Suppose that $a$ , $b$ , and $c$ are positive real numbers such that $a^{\\log_3 7} = 27$ , $b^{\\log_7 11} = 49$ , and $c^{\\log_{11}25} = \\sqrt{11}$ . Find \\[a^{(\\log_3 7)^2} + b^{(\\log_7 11)^2} + c^{(\\log_{11} 25)^2}.\\]",
+    "correct_answer": 469,
+    "year": 2009,
+    "part": "II",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_092",
+    "benchmark": "aime",
+    "question": "The numbers $1447$ , $1005$ and $1231$ have something in common: each is a $4$ -digit number beginning with $1$ that has exactly two identical digits. How many such numbers are there?",
+    "correct_answer": 432,
+    "year": 1983,
+    "part": "",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_093",
+    "benchmark": "aime",
+    "question": "Find the number of functions $f(x)$ from $\\{1, 2, 3, 4, 5\\}$ to $\\{1, 2, 3, 4, 5\\}$ that satisfy $f(f(x)) = f(f(f(x)))$ for all $x$ in $\\{1, 2, 3, 4, 5\\}$ .",
+    "correct_answer": 756,
+    "year": 2018,
+    "part": "II",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_094",
+    "benchmark": "aime",
+    "question": "The sides of rectangle $ABCD$ have lengths $10$ and $11$ . An equilateral triangle is drawn so that no point of the triangle lies outside $ABCD$ . The maximum possible area of such a triangle can be written in the form $p\\sqrt{q}-r$ , where $p$ , $q$ , and $r$ are positive integers, and $q$ is not divisible by the square of any prime number. Find $p+q+r$ .",
+    "correct_answer": 554,
+    "year": 1997,
+    "part": "",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_095",
+    "benchmark": "aime",
+    "question": "If $a<b<c<d<e^{}_{}$ are consecutive positive integers such that $b+c+d$ is a perfect square and $a+b+c+d+e^{}_{}$ is a perfect cube, what is the smallest possible value of $c^{}_{}$ ? ",
+    "correct_answer": 675,
+    "year": 1989,
+    "part": "",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_096",
+    "benchmark": "aime",
+    "question": "Let $N$ be the least positive integer that is both $22$ percent less than one integer and $16$ percent greater than another integer. Find the remainder when $N$ is divided by $1000$ .",
+    "correct_answer": 131,
+    "year": 2015,
+    "part": "II",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_097",
+    "benchmark": "aime",
+    "question": "Consider the paper triangle whose vertices are $(0,0), (34,0),$ and $(16,24).$ The vertices of its midpoint triangle are the midpoints of its sides.  A triangular pyramid is formed by folding the triangle along the sides of its midpoint triangle.  What is the volume of this pyramid?",
+    "correct_answer": 408,
+    "year": 1999,
+    "part": "",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_098",
+    "benchmark": "aime",
+    "question": "Three clever monkeys divide a pile of bananas. The first monkey takes some bananas from the pile, keeps three-fourths of them, and divides the rest equally between the other two. The second monkey takes some bananas from the pile, keeps one-fourth of them, and divides the rest equally between the other two. The third monkey takes the remaining bananas from the pile, keeps one-twelfth of them, and divides the rest equally between the other two. Given that each monkey receives a whole number of bananas whenever the bananas are divided, and the numbers of bananas the first, second, and third monkeys have at the end of the process are in the ratio $3: 2: 1,$ what is the least possible total for the number of bananas?",
+    "correct_answer": 408,
+    "year": 2004,
+    "part": "II",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_099",
+    "benchmark": "aime",
+    "question": "How many of the integers between 1 and 1000, inclusive, can be expressed as the difference of the squares of two nonnegative integers?",
+    "correct_answer": 750,
+    "year": 1997,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_100",
+    "benchmark": "aime",
+    "question": "Eight spheres of radius 100 are placed on a flat surface so that each sphere is tangent to two others and their centers are the vertices of a regular octagon .  A ninth sphere is placed on the flat surface so that it is tangent to each of the other eight spheres.  The radius of this last sphere is $a +b\\sqrt {c},$ where $a, b,$ and $c$ are positive integers , and $c$ is not divisible by the square of any prime .  Find $a + b + c$ .",
+    "correct_answer": 152,
+    "year": 1998,
+    "part": "",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_101",
+    "benchmark": "aime",
+    "question": "For $\\{1, 2, 3, \\ldots, n\\}$ and each of its nonempty subsets a unique alternating sum is defined as follows. Arrange the numbers in the subset in decreasing order and then, beginning with the largest, alternately add and subtract succesive numbers. For example, the alternating sum for $\\{1, 2, 3, 6,9\\}$ is $9-6+3-2+1=5$ and for $\\{5\\}$ it is simply $5$ . Find the sum of all such alternating sums for $n=7$ .",
+    "correct_answer": 448,
+    "year": 1983,
+    "part": "",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_102",
+    "benchmark": "aime",
+    "question": "The graph of the equation $9x+223y=2007$ is drawn on graph paper with each square representing one unit in each direction. How many of the $1$ by $1$ graph paper squares have interiors lying entirely below the graph and entirely in the first quadrant ?",
+    "correct_answer": 888,
+    "year": 2007,
+    "part": "II",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_103",
+    "benchmark": "aime",
+    "question": "Real numbers $r$ and $s$ are roots of $p(x)=x^3+ax+b$ , and $r+4$ and $s-3$ are roots of $q(x)=x^3+ax+b+240$ . Find the sum of all possible values of $|b|$ .",
+    "correct_answer": 420,
+    "year": 2014,
+    "part": "II",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_104",
+    "benchmark": "aime",
+    "question": "Robert has 4 indistinguishable gold coins and 4 indistinguishable silver coins. Each coin has an engraving of one face on one side, but not on the other. He wants to stack the eight coins on a table into a single stack so that no two adjacent coins are face to face. Find the number of possible distinguishable arrangements of the 8 coins.",
+    "correct_answer": 630,
+    "year": 2005,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_105",
+    "benchmark": "aime",
+    "question": "Two thousand points are given on a circle. Label one of the points 1. From this point, count 2 points in the clockwise direction and label this point 2. From the point labeled 2, count 3 points in the clockwise direction and label this point 3. (See figure.) Continue this process until the labels $1,2,3\\dots,1993\\,$ are all used. Some of the points on the circle will have more than one label and some points will not have a label. What is the smallest integer that labels the same point as 1993? AIME 1993 Problem 9.png",
+    "correct_answer": 118,
+    "year": 1993,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_106",
+    "benchmark": "aime",
+    "question": "A positive integer is called ascending if, in its decimal representation, there are at least two digits and each digit is less than any digit to its right. How many ascending positive integers are there? ",
+    "correct_answer": 502,
+    "year": 1992,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_107",
+    "benchmark": "aime",
+    "question": "Suppose that $\\sec x+\\tan x=\\frac{22}7$ and that $\\csc x+\\cot x=\\frac mn,$ where $\\frac mn$ is in lowest terms.  Find $m+n^{}_{}.$",
+    "correct_answer": 44,
+    "year": 1991,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_108",
+    "benchmark": "aime",
+    "question": "A fenced, rectangular field measures 24 meters by 52 meters. An agricultural researcher has 1994 meters of fence that can be used for internal fencing to partition the field into congruent, square test plots. The entire field must be partitioned, and the sides of the squares must be parallel to the edges of the field. What is the largest number of square test plots into which the field can be partitioned using all or some of the 1994 meters of fence?",
+    "correct_answer": 702,
+    "year": 1994,
+    "part": "",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_109",
+    "benchmark": "aime",
+    "question": "Let $S^{}_{}$ be a subset of $\\{1,2,3^{}_{},\\ldots,1989\\}$ such that no two members of $S^{}_{}$ differ by $4^{}_{}$ or $7^{}_{}$ . What is the largest number of elements $S^{}_{}$ can have?",
+    "correct_answer": 905,
+    "year": 1989,
+    "part": "",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_110",
+    "benchmark": "aime",
+    "question": "For all positive integers $x$ , let \\[f(x)=\\begin{cases}1 &\\mbox{if }x = 1\\\\ \\frac x{10} &\\mbox{if }x\\mbox{ is divisible by 10}\\\\ x+1 &\\mbox{otherwise}\\end{cases}\\] and define a sequence as follows: $x_1=x$ and $x_{n+1}=f(x_n)$ for all positive integers $n$ . Let $d(x)$ be the smallest $n$ such that $x_n=1$ . (For example, $d(100)=3$ and $d(87)=7$ .) Let $m$ be the number of positive integers $x$ such that $d(x)=20$ . Find the sum of the distinct prime factors of $m$ .",
+    "correct_answer": 511,
+    "year": 2004,
+    "part": "I",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_111",
+    "benchmark": "aime",
+    "question": "A standard six-sided fair die is rolled four times. The probability that the product of all four numbers rolled is a perfect square is $\\tfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . ",
+    "correct_answer": 187,
+    "year": 2019,
+    "part": "II",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_112",
+    "benchmark": "aime",
+    "question": "Circles $\\omega_1$ and $\\omega_2$ intersect at two points $P$ and $Q,$ and their common tangent line closer to $P$ intersects $\\omega_1$ and $\\omega_2$ at points $A$ and $B,$ respectively. The line parallel to $AB$ that passes through $P$ intersects $\\omega_1$ and $\\omega_2$ for the second time at points $X$ and $Y,$ respectively. Suppose $PX=10,$ $PY=14,$ and $PQ=5.$ Then the area of trapezoid $XABY$ is $m\\sqrt{n},$ where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. Find $m+n.$",
+    "correct_answer": 33,
+    "year": 2023,
+    "part": "II",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_113",
+    "benchmark": "aime",
+    "question": "An integer is called snakelike if its decimal representation $a_1a_2a_3\\cdots a_k$ satisfies $a_i<a_{i+1}$ if $i$ is odd and $a_i>a_{i+1}$ if $i$ is even. How many snakelike integers between 1000 and 9999 have four distinct digits?",
+    "correct_answer": 882,
+    "year": 2004,
+    "part": "I",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_114",
+    "benchmark": "aime",
+    "question": "Circles $\\mathcal{C}_{1}$ and $\\mathcal{C}_{2}$ intersect at two points, one of which is $(9,6)$ , and the product of the radii is $68$ . The x-axis and the line $y = mx$ , where $m > 0$ , are tangent to both circles. It is given that $m$ can be written in the form $a\\sqrt {b}/c$ , where $a$ , $b$ , and $c$ are positive integers, $b$ is not divisible by the square of any prime, and $a$ and $c$ are relatively prime. Find $a + b + c$ .",
+    "correct_answer": 282,
+    "year": 2002,
+    "part": "II",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_115",
+    "benchmark": "aime",
+    "question": "In a new school, $40$ percent of the students are freshmen, $30$ percent are sophomores, $20$ percent are juniors, and $10$ percent are seniors. All freshmen are required to take Latin, and $80$ percent of sophomores, $50$ percent of the juniors, and $20$ percent of the seniors elect to take Latin. The probability that a randomly chosen Latin student is a sophomore is $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "correct_answer": 25,
+    "year": 2015,
+    "part": "II",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_116",
+    "benchmark": "aime",
+    "question": "Find the sum of the values of $x$ such that $\\cos^3 3x+ \\cos^3 5x = 8 \\cos^3 4x \\cos^3 x,$ where $x$ is measured in degrees and $100< x< 200.$",
+    "correct_answer": 906,
+    "year": 2006,
+    "part": "I",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_117",
+    "benchmark": "aime",
+    "question": "The pages of a book are numbered $1_{}^{}$ through $n_{}^{}$ . When the page numbers of the book were added, one of the page numbers was mistakenly added twice, resulting in an incorrect sum of $1986_{}^{}$ . What was the number of the page that was added twice?",
+    "correct_answer": 33,
+    "year": 1986,
+    "part": "",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_118",
+    "benchmark": "aime",
+    "question": "In quadrilateral $ABCD$ , $\\angle{BAD}\\cong\\angle{ADC}$ and $\\angle{ABD}\\cong\\angle{BCD}$ , $AB = 8$ , $BD = 10$ , and $BC = 6$ . The length $CD$ may be written in the form $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+    "correct_answer": 69,
+    "year": 2001,
+    "part": "II",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_119",
+    "benchmark": "aime",
+    "question": "A deck of forty cards consists of four 1's, four 2's,..., and four 10's.  A matching pair (two cards with the same number) is removed from the deck.  Given that these cards are not returned to the deck, let $m/n$ be the probability that two randomly selected cards also form a pair, where $m$ and $n$ are relatively prime positive integers.  Find $m + n.$",
+    "correct_answer": 758,
+    "year": 2000,
+    "part": "II",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_120",
+    "benchmark": "aime",
+    "question": "Find the least odd prime factor of $2019^8 + 1$ .",
+    "correct_answer": 97,
+    "year": 2019,
+    "part": "I",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_121",
+    "benchmark": "aime",
+    "question": "Find the largest possible value of $k$ for which $3^{11}$ is expressible as the sum of $k$ consecutive positive integers.",
+    "correct_answer": 486,
+    "year": 1987,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_122",
+    "benchmark": "aime",
+    "question": "Three numbers, $a_1, a_2, a_3$ , are drawn randomly and without replacement from the set $\\{1, 2, 3,\\ldots, 1000\\}$ . Three other numbers, $b_1, b_2, b_3$ , are then drawn randomly and without replacement from the remaining set of $997$ numbers. Let $p$ be the probability that, after suitable rotation, a brick of dimensions $a_1 \\times a_2 \\times a_3$ can be enclosed in a box of dimension $b_1 \\times b_2 \\times b_3$ , with the sides of the brick parallel to the sides of the box. If $p$ is written as a fraction in lowest terms, what is the sum of the numerator and denominator?",
+    "correct_answer": 5,
+    "year": 1993,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_123",
+    "benchmark": "aime",
+    "question": "Find the sum of the roots, real and non-real, of the equation $x^{2001}+\\left(\\frac 12-x\\right)^{2001}=0$ , given that there are no multiple roots.",
+    "correct_answer": 500,
+    "year": 2001,
+    "part": "I",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_124",
+    "benchmark": "aime",
+    "question": "Find the number of subsets of $\\{1,2,3,\\ldots,10\\}$ that contain exactly one pair of consecutive integers. Examples of such subsets are $\\{\\mathbf{1},\\mathbf{2},5\\}$ and $\\{1,3,\\mathbf{6},\\mathbf{7},10\\}.$",
+    "correct_answer": 235,
+    "year": 2023,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_125",
+    "benchmark": "aime",
+    "question": "Faces $ABC^{}_{}$ and $BCD^{}_{}$ of tetrahedron $ABCD^{}_{}$ meet at an angle of $30^\\circ$ . The area of face $ABC^{}_{}$ is $120^{}_{}$ , the area of face $BCD^{}_{}$ is $80^{}_{}$ , and $BC=10^{}_{}$ . Find the volume of the tetrahedron.",
+    "correct_answer": 320,
+    "year": 1992,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_126",
+    "benchmark": "aime",
+    "question": "Square $S_{1}$ is $1\\times 1.$ For $i\\ge 1,$ the lengths of the sides of square $S_{i+1}$ are half the lengths of the sides of square $S_{i},$ two adjacent sides of square $S_{i}$ are perpendicular bisectors of two adjacent sides of square $S_{i+1},$ and the other two sides of square $S_{i+1},$ are the perpendicular bisectors of two adjacent sides of square $S_{i+2}.$ The total area enclosed by at least one of $S_{1}, S_{2}, S_{3}, S_{4}, S_{5}$ can be written in the form $m/n,$ where $m$ and $n$ are relatively prime positive integers.  Find $m-n.$ AIME 1995 Problem 1.png",
+    "correct_answer": 255,
+    "year": 1995,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_127",
+    "benchmark": "aime",
+    "question": "Call a $3$ -digit number geometric if it has $3$ distinct digits which, when read from left to right, form a geometric sequence.  Find the difference between the largest and smallest geometric numbers.",
+    "correct_answer": 840,
+    "year": 2009,
+    "part": "I",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_128",
+    "benchmark": "aime",
+    "question": "Find the sum of all positive integers $b < 1000$ such that the base- $b$ integer $36_{b}$ is a perfect square and the base- $b$ integer $27_{b}$ is a perfect cube.",
+    "correct_answer": 371,
+    "year": 2018,
+    "part": "II",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_129",
+    "benchmark": "aime",
+    "question": "In isosceles trapezoid $ABCD,$ parallel bases $\\overline{AB}$ and $\\overline{CD}$ have lengths $500$ and $650,$ respectively, and $AD=BC=333.$ The angle bisectors of $\\angle A$ and $\\angle D$ meet at $P,$ and the angle bisectors of $\\angle B$ and $\\angle C$ meet at $Q.$ Find $PQ.$",
+    "correct_answer": 242,
+    "year": 2022,
+    "part": "I",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_130",
+    "benchmark": "aime",
+    "question": "Consider arrangements of the $9$ numbers $1, 2, 3, \\dots, 9$ in a $3 \\times 3$ array. For each such arrangement, let $a_1$ , $a_2$ , and $a_3$ be the medians of the numbers in rows $1$ , $2$ , and $3$ respectively, and let $m$ be the median of $\\{a_1, a_2, a_3\\}$ . Let $Q$ be the number of arrangements for which $m = 5$ . Find the remainder when $Q$ is divided by $1000$ .",
+    "correct_answer": 360,
+    "year": 2017,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_131",
+    "benchmark": "aime",
+    "question": "Let $x_1< x_2 < x_3$ be the three real roots of the equation $\\sqrt{2014} x^3 - 4029x^2 + 2 = 0$ . Find $x_2(x_1+x_3)$ .",
+    "correct_answer": 2,
+    "year": 2014,
+    "part": "I",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_132",
+    "benchmark": "aime",
+    "question": "What is the smallest positive integer than can be expressed as the sum of nine consecutive integers, the sum of ten consecutive integers, and the sum of eleven consecutive integers? ",
+    "correct_answer": 495,
+    "year": 1993,
+    "part": "",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_133",
+    "benchmark": "aime",
+    "question": "Find the smallest positive integer whose cube ends in $888$ .",
+    "correct_answer": 192,
+    "year": 1988,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_134",
+    "benchmark": "aime",
+    "question": "The product $N$ of three positive integers is 6 times their sum, and one of the integers is the sum of the other two. Find the sum of all possible values of $N$ .",
+    "correct_answer": 336,
+    "year": 2003,
+    "part": "II",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_135",
+    "benchmark": "aime",
+    "question": "A biologist wants to calculate the number of fish in a lake. On May 1 she catches a random sample of 60 fish, tags them, and releases them. On September 1 she catches a random sample of 70 fish and finds that 3 of them are tagged. To calculate the number of fish in the lake on May 1, she assumes that 25% of these fish are no longer in the lake on September 1 (because of death and emigrations), that 40% of the fish were not in the lake May 1 (because of births and immigrations), and that the number of untagged fish and tagged fish in the September 1 sample are representative of the total population. What does the biologist calculate for the number of fish in the lake on May 1?",
+    "correct_answer": 840,
+    "year": 1990,
+    "part": "",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_136",
+    "benchmark": "aime",
+    "question": "In a game of Chomp , two players alternately take bites from a 5-by-7 grid of unit squares. To take a bite, a player chooses one of the remaining squares, then removes (\"eats\") all squares in the quadrant defined by the left edge (extended upward) and the lower edge (extended rightward) of the chosen square. For example, the bite determined by the shaded square in the diagram would remove the shaded square and the four squares marked by $\\times.$ (The squares with two or more dotted edges have been removed from the original board in previous moves.) AIME 1992 Problem 12.png The object of the game is to make one's opponent take the last bite. The diagram shows one of the many subsets of the set of 35 unit squares that can occur during the game of Chomp. How many different subsets are there in all? Include the full board and empty board in your count.",
+    "correct_answer": 792,
+    "year": 1992,
+    "part": "",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_137",
+    "benchmark": "aime",
+    "question": "In triangle $ABC$ , angles $A$ and $B$ measure $60$ degrees and $45$ degrees, respectively. The bisector of angle $A$ intersects $\\overline{BC}$ at $T$ , and $AT=24$ . The area of triangle $ABC$ can be written in the form $a+b\\sqrt{c}$ , where $a$ , $b$ , and $c$ are positive integers, and $c$ is not divisible by the square of any prime. Find $a+b+c$ .",
+    "correct_answer": 291,
+    "year": 2001,
+    "part": "I",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_138",
+    "benchmark": "aime",
+    "question": "A right square pyramid with volume $54$ has a base with side length $6.$ The five vertices of the pyramid all lie on a sphere with radius $\\frac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "correct_answer": 21,
+    "year": 2022,
+    "part": "II",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_139",
+    "benchmark": "aime",
+    "question": "A point $P$ is chosen in the interior of $\\triangle ABC$ such that when lines are drawn through $P$ parallel to the sides of $\\triangle ABC$ , the resulting smaller triangles $t_{1}$ , $t_{2}$ , and $t_{3}$ in the figure, have areas $4$ , $9$ , and $49$ , respectively. Find the area of $\\triangle ABC$ . [asy] size(200); pathpen=black+linewidth(0.65);pointpen=black; pair A=(0,0),B=(12,0),C=(4,5); D(A--B--C--cycle); D(A+(B-A)*3/4--A+(C-A)*3/4); D(B+(C-B)*5/6--B+(A-B)*5/6);D(C+(B-C)*5/12--C+(A-C)*5/12); MP(\"A\",C,N);MP(\"B\",A,SW);MP(\"C\",B,SE); /* sorry mixed up points according to resources diagram. */ MP(\"t_3\",(A+B+(B-A)*3/4+(A-B)*5/6)/2+(-1,0.8),N); MP(\"t_2\",(B+C+(B-C)*5/12+(C-B)*5/6)/2+(-0.3,0.1),WSW); MP(\"t_1\",(A+C+(C-A)*3/4+(A-C)*5/12)/2+(0,0.15),ESE); [/asy]",
+    "correct_answer": 144,
+    "year": 1984,
+    "part": "",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_140",
+    "benchmark": "aime",
+    "question": "A fair coin is to be tossed $10_{}^{}$ times. Let $i/j^{}_{}$ , in lowest terms, be the probability that heads never occur on consecutive tosses. Find $i+j_{}^{}$ .",
+    "correct_answer": 73,
+    "year": 1990,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_141",
+    "benchmark": "aime",
+    "question": "Suppose that the roots of $x^3+3x^2+4x-11=0$ are $a$ , $b$ , and $c$ , and that the roots of $x^3+rx^2+sx+t=0$ are $a+b$ , $b+c$ , and $c+a$ . Find $t$ .",
+    "correct_answer": 23,
+    "year": 1996,
+    "part": "",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_142",
+    "benchmark": "aime",
+    "question": "Positive numbers $x$ , $y$ , and $z$ satisfy $xyz = 10^{81}$ and $(\\log_{10}x)(\\log_{10} yz) + (\\log_{10}y) (\\log_{10}z) = 468$ . Find $\\sqrt {(\\log_{10}x)^2 + (\\log_{10}y)^2 + (\\log_{10}z)^2}$ .",
+    "correct_answer": 75,
+    "year": 2010,
+    "part": "II",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_143",
+    "benchmark": "aime",
+    "question": "Equilateral triangle $T$ is inscribed in circle $A$ , which has radius $10$ . Circle $B$ with radius $3$ is internally tangent to circle $A$ at one vertex of $T$ . Circles $C$ and $D$ , both with radius $2$ , are internally tangent to circle $A$ at the other two vertices of $T$ . Circles $B$ , $C$ , and $D$ are all externally tangent to circle $E$ , which has radius $\\dfrac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . [asy] unitsize(3mm); defaultpen(linewidth(.8pt)); dotfactor=4;  pair A=(0,0), D=8*dir(330), C=8*dir(210), B=7*dir(90); pair Ep=(0,4-27/5); pair[] dotted={A,B,C,D,Ep};  draw(Circle(A,10)); draw(Circle(B,3)); draw(Circle(C,2)); draw(Circle(D,2)); draw(Circle(Ep,27/5));  dot(dotted); label(\"$E$\",Ep,E); label(\"$A$\",A,W); label(\"$B$\",B,W); label(\"$C$\",C,W); label(\"$D$\",D,E); [/asy]",
+    "correct_answer": 32,
+    "year": 2009,
+    "part": "II",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_144",
+    "benchmark": "aime",
+    "question": "Given that \\begin{align*}x_{1}&=211,\\\\ x_{2}&=375,\\\\ x_{3}&=420,\\\\ x_{4}&=523,\\ \\text{and}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{when}\\ n\\geq5, \\end{align*} find the value of $x_{531}+x_{753}+x_{975}$ .",
+    "correct_answer": 898,
+    "year": 2001,
+    "part": "II",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_145",
+    "benchmark": "aime",
+    "question": "The numbers 1, 2, 3, 4, 5, 6, 7, and 8 are randomly written on the faces of a regular octahedron so that each face contains a different number.  The probability that no two consecutive numbers, where 8 and 1 are considered to be consecutive, are written on faces that share an edge is $m/n,$ where $m$ and $n$ are relatively prime positive integers.  Find $m + n.$",
+    "correct_answer": 85,
+    "year": 2001,
+    "part": "I",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_146",
+    "benchmark": "aime",
+    "question": "The solutions to the system of equations \\begin{align*} \\log_{225}{x}+\\log_{64}{y} = 4\\\\ \\log_{x}{225}- \\log_{y}{64} = 1 \\end{align*} are $(x_1,y_1)$ and $(x_2, y_2)$ . Find $\\log_{30}{(x_1y_1x_2y_2)}$ .",
+    "correct_answer": 12,
+    "year": 2002,
+    "part": "I",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_147",
+    "benchmark": "aime",
+    "question": "A bug walks all day and sleeps all night. On the first day, it starts at point $O,$ faces east, and walks a distance of $5$ units due east. Each night the bug rotates $60^\\circ$ counterclockwise. Each day it walks in this new direction half as far as it walked the previous day. The bug gets arbitrarily close to the point $P.$ Then $OP^2=\\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+    "correct_answer": 103,
+    "year": 2020,
+    "part": "I",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_148",
+    "benchmark": "aime",
+    "question": "Two mathematicians take a morning coffee break each day.  They arrive at the cafeteria independently, at random times between 9 a.m. and 10 a.m., and stay for exactly $m$ minutes.  The probability that either one arrives while the other is in the cafeteria is $40 \\%,$ and $m = a - b\\sqrt {c},$ where $a, b,$ and $c$ are positive integers , and $c$ is not divisible by the square of any prime .  Find $a + b + c.$",
+    "correct_answer": 87,
+    "year": 1998,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_149",
+    "benchmark": "aime",
+    "question": "Let $x_1=97$ , and for $n>1$ let $x_n=\\frac{n}{x_{n-1}}$ . Calculate the product $x_1x_2 \\ldots x_8$ .",
+    "correct_answer": 384,
+    "year": 1985,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_150",
+    "benchmark": "aime",
+    "question": "Point $P$ lies on the diagonal $AC$ of square $ABCD$ with $AP > CP$ . Let $O_1$ and $O_2$ be the circumcenters of triangles $ABP$ and $CDP$ , respectively. Given that $AB = 12$ and $\\angle O_1PO_2 = 120 ^{\\circ}$ , then $AP = \\sqrt{a} + \\sqrt{b}$ , where $a$ and $b$ are positive integers. Find $a + b$ .",
+    "correct_answer": 96,
+    "year": 2011,
+    "part": "II",
+    "problem_number": 13,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_151",
+    "benchmark": "aime",
+    "question": "Five towns are connected by a system of roads. There is exactly one road connecting each pair of towns. Find the number of ways there are to make all the roads one-way in such a way that it is still possible to get from any town to any other town using the roads (possibly passing through other towns on the way). ",
+    "correct_answer": 544,
+    "year": 2017,
+    "part": "II",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_152",
+    "benchmark": "aime",
+    "question": "A circle with diameter $\\overline{PQ}\\,$ of length 10 is internally tangent at $P^{}_{}$ to a circle of radius 20. Square $ABCD\\,$ is constructed with $A\\,$ and $B\\,$ on the larger circle, $\\overline{CD}\\,$ tangent at $Q\\,$ to the smaller circle, and the smaller circle outside $ABCD\\,$ . The length of $\\overline{AB}\\,$ can be written in the form $m + \\sqrt{n}\\,$ , where $m\\,$ and $n\\,$ are integers. Find $m + n\\,$ .",
+    "correct_answer": 312,
+    "year": 1994,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_153",
+    "benchmark": "aime",
+    "question": "Let $P_1^{}$ be a regular $r~\\mbox{gon}$ and $P_2^{}$ be a regular $s~\\mbox{gon}$ $(r\\geq s\\geq 3)$ such that each interior angle of $P_1^{}$ is $\\frac{59}{58}$ as large as each interior angle of $P_2^{}$ . What's the largest possible value of $s_{}^{}$ ?",
+    "correct_answer": 117,
+    "year": 1990,
+    "part": "",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_154",
+    "benchmark": "aime",
+    "question": "How many positive integers less than 10,000 have at most two different digits?",
+    "correct_answer": 927,
+    "year": 2004,
+    "part": "II",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_155",
+    "benchmark": "aime",
+    "question": "Let $N$ be the greatest four-digit integer with the property that whenever one of its digits is changed to $1$ , the resulting number is divisible by $7$ . Let $Q$ and $R$ be the quotient and remainder, respectively, when $N$ is divided by $1000$ . Find $Q+R$ .",
+    "correct_answer": 699,
+    "year": 2024,
+    "part": "II",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_156",
+    "benchmark": "aime",
+    "question": "Two squares of a $7\\times 7$ checkerboard are painted yellow, and the rest are painted green. Two color schemes are equivalent if one can be obtained from the other by applying a rotation in the plane board. How many inequivalent color schemes are possible?",
+    "correct_answer": 300,
+    "year": 1996,
+    "part": "",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_157",
+    "benchmark": "aime",
+    "question": "A small  square is constructed inside a square of area $1$ by dividing each side of the unit square into $n$ equal parts, and then connecting the  vertices to the division points closest to the opposite vertices, as shown in the figure. Find the value of $n$ if the the area of the small square is exactly $\\frac1{1985}$ . AIME 1985 Problem 4.png",
+    "correct_answer": 32,
+    "year": 1985,
+    "part": "",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_158",
+    "benchmark": "aime",
+    "question": "It is given that $\\log_{6}a + \\log_{6}b + \\log_{6}c = 6$ , where $a$ , $b$ , and $c$ are positive integers that form an increasing geometric sequence and $b - a$ is the square of an integer. Find $a + b + c$ .",
+    "correct_answer": 111,
+    "year": 2002,
+    "part": "II",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_159",
+    "benchmark": "aime",
+    "question": "Triangle $ABC$ is isosceles, with $AB=AC$ and altitude $AM=11.$ Suppose that there is a point $D$ on $\\overline{AM}$ with $AD=10$ and $\\angle BDC=3\\angle BAC.$ Then the perimeter of $\\triangle ABC$ may be written in the form $a+\\sqrt{b},$ where $a$ and $b$ are integers.  Find $a+b.$ AIME 1995 Problem 9.png",
+    "correct_answer": 616,
+    "year": 1995,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_160",
+    "benchmark": "aime",
+    "question": "A strictly increasing sequence of positive integers $a_1$ , $a_2$ , $a_3$ , $\\cdots$ has the property that for every positive integer $k$ , the subsequence $a_{2k-1}$ , $a_{2k}$ , $a_{2k+1}$ is geometric and the subsequence $a_{2k}$ , $a_{2k+1}$ , $a_{2k+2}$ is arithmetic. Suppose that $a_{13} = 2016$ . Find $a_1$ .",
+    "correct_answer": 504,
+    "year": 2016,
+    "part": "I",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_161",
+    "benchmark": "aime",
+    "question": "A paper equilateral triangle $ABC$ has side length $12$ . The paper triangle is folded so that vertex $A$ touches a point on side $\\overline{BC}$ a distance $9$ from point $B$ . The length of the line segment along which the triangle is folded can be written as $\\frac{m\\sqrt{p}}{n}$ , where $m$ , $n$ , and $p$ are positive integers, $m$ and $n$ are relatively prime, and $p$ is not divisible by the square of any prime. Find $m+n+p$ . [asy] import cse5; size(12cm); pen tpen = defaultpen + 1.337; real a = 39/5.0; real b = 39/7.0; pair B = MP(\"B\", (0,0), dir(200)); pair A = MP(\"A\", (9,0), dir(-80)); pair C = MP(\"C\", (12,0), dir(-20)); pair K = (6,10.392); pair M = (a*B+(12-a)*K) / 12; pair N = (b*C+(12-b)*K) / 12; draw(B--M--N--C--cycle, tpen); draw(M--A--N--cycle); fill(M--A--N--cycle, mediumgrey); pair shift = (-20.13, 0); pair B1 = MP(\"B\", B+shift, dir(200)); pair A1 = MP(\"A\", K+shift, dir(90)); pair C1 = MP(\"C\", C+shift, dir(-20)); draw(A1--B1--C1--cycle, tpen);[/asy]",
+    "correct_answer": 113,
+    "year": 2013,
+    "part": "I",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_162",
+    "benchmark": "aime",
+    "question": "Let $F(z)=\\frac{z+i}{z-i}$ for all complex numbers $z\\not= i$ , and let $z_n=F(z_{n-1})$ for all positive integers $n$ . Given that $z_0=\\frac 1{137}+i$ and $z_{2002}=a+bi$ , where $a$ and $b$ are real numbers, find $a+b$ .",
+    "correct_answer": 275,
+    "year": 2002,
+    "part": "I",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_163",
+    "benchmark": "aime",
+    "question": "Three of the edges of a cube are $\\overline{AB}, \\overline{BC},$ and $\\overline{CD},$ and $\\overline{AD}$ is an interior diagonal .  Points $P, Q,$ and $R$ are on $\\overline{AB}, \\overline{BC},$ and $\\overline{CD},$ respectively, so that $AP = 5, PB = 15, BQ = 15,$ and $CR = 10.$ What is the area of the polygon that is the intersection of plane $PQR$ and the cube?",
+    "correct_answer": 525,
+    "year": 1998,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_164",
+    "benchmark": "aime",
+    "question": "For a positive integer $p$ , define the positive integer $n$ to be $p$ -safe if $n$ differs in absolute value by more than $2$ from all multiples of $p$ . For example, the set of $10$ -safe numbers is $\\{ 3, 4, 5, 6, 7, 13, 14, 15, 16, 17, 23, \\ldots\\}$ . Find the number of positive integers less than or equal to $10,000$ which are simultaneously $7$ -safe, $11$ -safe, and $13$ -safe.",
+    "correct_answer": 958,
+    "year": 2012,
+    "part": "II",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_165",
+    "benchmark": "aime",
+    "question": "Suppose $\\triangle ABC$ has angles $\\angle BAC = 84^\\circ$, $\\angle ABC=60^\\circ$, and $\\angle ACB = 36^\\circ$. Let $D$, $E$, and $F$ be the midpoints of sides $\\overline{BC}$, $\\overline{AC}$, and $\\overline{AB}$, respectively. The circumcircle of $\triangle DEF$ intersects $\\overline{BD}, \\overline{AE}$, and $\\overline{AF}$ at points $G$, $H$, and $J$, respectively. The points $G$, $D$, $E$, $H$, $J$, and $F$ divide the circumcircle of $\\triangle DEF$ into six minor arcs. Find $\\overarc{DE}+2\\cdot \\overarc{HJ} + 3\\cdot \\overarc{FG}$, where the arcs are measured in degrees.",
+    "correct_answer": 336,
+    "year": 2025,
+    "part": "",
+    "problem_number": 19,
+    "source": "https://huggingface.co/datasets/simplescaling/aime25_nofigures"
+  },
+  {
+    "case_id": "aime_166",
+    "benchmark": "aime",
+    "question": "In a five-team tournament, each team plays one game with every other team. Each team has a $50\\%$ chance of winning any game it plays. (There are no ties.) Let $\\dfrac{m}{n}$ be the probability that the tournament will produce neither an undefeated team nor a winless team, where $m$ and $n$ are relatively prime integers. Find $m+n$ .",
+    "correct_answer": 49,
+    "year": 1996,
+    "part": "",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_167",
+    "benchmark": "aime",
+    "question": "Positive integers $a$ , $b$ , $c$ , and $d$ satisfy $a > b > c > d$ , $a + b + c + d = 2010$ , and $a^2 - b^2 + c^2 - d^2 = 2010$ . Find the number of possible values of $a$ .",
+    "correct_answer": 501,
+    "year": 2010,
+    "part": "I",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_168",
+    "benchmark": "aime",
+    "question": "Let $N$ be the number of consecutive 0's at the right end of the decimal representation of the product $1!2!3!4!\\cdots99!100!.$ Find the remainder when $N$ is divided by 1000.",
+    "correct_answer": 124,
+    "year": 2006,
+    "part": "I",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_169",
+    "benchmark": "aime",
+    "question": "Rhombus $PQRS^{}_{}$ is inscribed in rectangle $ABCD^{}_{}$ so that vertices $P^{}_{}$ , $Q^{}_{}$ , $R^{}_{}$ , and $S^{}_{}$ are interior points on sides $\\overline{AB}$ , $\\overline{BC}$ , $\\overline{CD}$ , and $\\overline{DA}$ , respectively. It is given that $PB^{}_{}=15$ , $BQ^{}_{}=20$ , $PR^{}_{}=30$ , and $QS^{}_{}=40$ . Let $m/n^{}_{}$ , in lowest terms, denote the perimeter of $ABCD^{}_{}$ . Find $m+n^{}_{}$ .",
+    "correct_answer": 677,
+    "year": 1991,
+    "part": "",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_170",
+    "benchmark": "aime",
+    "question": "A beam of light strikes $\\overline{BC}\\,$ at point $C\\,$ with angle of incidence $\\alpha=19.94^\\circ\\,$ and reflects with an equal angle of reflection as shown.  The light beam continues its path, reflecting off line segments $\\overline{AB}\\,$ and $\\overline{BC}\\,$ according to the rule: angle of incidence equals angle of reflection.  Given that $\\beta=\\alpha/10=1.994^\\circ\\,$ and $AB=BC,\\,$ determine the number of times the light beam will bounce off the two line segments.  Include the first reflection at $C\\,$ in your count. AIME 1994 Problem 14.png",
+    "correct_answer": 71,
+    "year": 1994,
+    "part": "",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_171",
+    "benchmark": "aime",
+    "question": "For certain real values of $a, b, c,$ and $d_{},$ the equation $x^4+ax^3+bx^2+cx+d=0$ has four non-real roots.  The product of two of these roots is $13+i$ and the sum of the other two roots is $3+4i,$ where $i=\\sqrt{-1}.$ Find $b.$",
+    "correct_answer": 51,
+    "year": 1995,
+    "part": "",
+    "problem_number": 5,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_172",
+    "benchmark": "aime",
+    "question": "An ordered pair $(m,n)$ of non-negative integers is called \"simple\" if the addition $m+n$ in base $10$ requires no carrying. Find the number of simple ordered pairs of non-negative integers that sum to $1492$ .",
+    "correct_answer": 300,
+    "year": 1987,
+    "part": "",
+    "problem_number": 1,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_173",
+    "benchmark": "aime",
+    "question": "Find the least positive integer $m$ such that $m^2 - m + 11$ is a product of at least four not necessarily distinct primes.",
+    "correct_answer": 132,
+    "year": 2016,
+    "part": "I",
+    "problem_number": 12,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_174",
+    "benchmark": "aime",
+    "question": "Let $ABCDEF$ be a regular hexagon. Let $G$ , $H$ , $I$ , $J$ , $K$ , and $L$ be the midpoints of sides $AB$ , $BC$ , $CD$ , $DE$ , $EF$ , and $AF$ , respectively. The segments $\\overline{AH}$ , $\\overline{BI}$ , $\\overline{CJ}$ , $\\overline{DK}$ , $\\overline{EL}$ , and $\\overline{FG}$ bound a smaller regular hexagon. Let the ratio of the area of the smaller hexagon to the area of $ABCDEF$ be expressed as a fraction $\\frac {m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m + n$ . ",
+    "correct_answer": 11,
+    "year": 2010,
+    "part": "II",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_175",
+    "benchmark": "aime",
+    "question": "Let $\\overline{CH}$ be an altitude of $\\triangle ABC$ . Let $R\\,$ and $S\\,$ be the points where the circles inscribed in the triangles $ACH\\,$ and $BCH^{}_{}$ are tangent to $\\overline{CH}$ . If $AB = 1995\\,$ , $AC = 1994\\,$ , and $BC = 1993\\,$ , then $RS\\,$ can be expressed as $m/n\\,$ , where $m\\,$ and $n\\,$ are relatively prime integers. Find $m + n\\,$ .",
+    "correct_answer": 997,
+    "year": 1993,
+    "part": "",
+    "problem_number": 15,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_176",
+    "benchmark": "aime",
+    "question": "Let $S$ be a list of positive integers--not necessarily distinct--in which the number $68$ appears. The average (arithmetic mean) of the numbers in $S$ is $56$ . However, if $68$ is removed, the average of the remaining numbers drops to $55$ . What is the largest number that can appear in $S$ ?",
+    "correct_answer": 649,
+    "year": 1984,
+    "part": "",
+    "problem_number": 4,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_177",
+    "benchmark": "aime",
+    "question": "Point $P_{}$ is located inside triangle $ABC$ so that angles $PAB, PBC,$ and $PCA$ are all congruent.  The sides of the triangle have lengths $AB=13, BC=14,$ and $CA=15,$ and the tangent of angle $PAB$ is $m/n,$ where $m_{}$ and $n_{}$ are relatively prime positive integers.  Find $m+n.$",
+    "correct_answer": 463,
+    "year": 1999,
+    "part": "",
+    "problem_number": 14,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_178",
+    "benchmark": "aime",
+    "question": "Let $\\ell_A$ and $\\ell_B$ be two distinct parallel lines. For positive integers $m$ and $n$ , distinct points $A_1, A_2, \\allowbreak A_3, \\allowbreak \\ldots, \\allowbreak A_m$ lie on $\\ell_A$ , and distinct points $B_1, B_2, B_3, \\ldots, B_n$ lie on $\\ell_B$ . Additionally, when segments $\\overline{A_iB_j}$ are drawn for all $i=1,2,3,\\ldots, m$ and $j=1,\\allowbreak 2,\\allowbreak 3, \\ldots, \\allowbreak n$ , no point strictly between $\\ell_A$ and $\\ell_B$ lies on more than two of the segments. Find the number of bounded regions into which this figure divides the plane when $m=7$ and $n=5$ . The figure shows that there are 8 regions when $m=3$ and $n=2$ . [asy] import geometry; size(10cm); draw((-2,0)--(13,0)); draw((0,4)--(10,4)); label(\"$\\ell_A$\",(-2,0),W); label(\"$\\ell_B$\",(0,4),W); point A1=(0,0),A2=(5,0),A3=(11,0),B1=(2,4),B2=(8,4),I1=extension(B1,A2,A1,B2),I2=extension(B1,A3,A1,B2),I3=extension(B1,A3,A2,B2); draw(B1--A1--B2); draw(B1--A2--B2); draw(B1--A3--B2); label(\"$A_1$\",A1,S); label(\"$A_2$\",A2,S); label(\"$A_3$\",A3,S); label(\"$B_1$\",B1,N); label(\"$B_2$\",B2,N); label(\"1\",centroid(A1,B1,I1)); label(\"2\",centroid(B1,I1,I3)); label(\"3\",centroid(B1,B2,I3)); label(\"4\",centroid(A1,A2,I1)); label(\"5\",(A2+I1+I2+I3)/4); label(\"6\",centroid(B2,I2,I3)); label(\"7\",centroid(A2,A3,I2)); label(\"8\",centroid(A3,B2,I2)); dot(A1); dot(A2); dot(A3); dot(B1); dot(B2); [/asy]",
+    "correct_answer": 244,
+    "year": 2022,
+    "part": "II",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_179",
+    "benchmark": "aime",
+    "question": "Let $ABCD$ be a cyclic quadrilateral with $AB=4,BC=5,CD=6,$ and $DA=7.$ Let $A_1$ and $C_1$ be the feet of the perpendiculars from $A$ and $C,$ respectively, to line $BD,$ and let $B_1$ and $D_1$ be the feet of the perpendiculars from $B$ and $D,$ respectively, to line $AC.$ The perimeter of $A_1B_1C_1D_1$ is $\\frac mn,$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+    "correct_answer": 301,
+    "year": 2021,
+    "part": "I",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_180",
+    "benchmark": "aime",
+    "question": "Ninety-four bricks, each measuring $4''\\times10''\\times19'',$ are to be stacked one on top of another to form a tower 94 bricks tall.  Each brick can be oriented so it contributes $4''\\,$ or $10''\\,$ or $19''\\,$ to the total height of the tower.  How many different tower heights can be achieved using all 94 of the bricks?",
+    "correct_answer": 465,
+    "year": 1994,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_181",
+    "benchmark": "aime",
+    "question": "A sample of 121 integers is given, each between 1 and 1000 inclusive, with repetitions allowed. The sample has a unique mode (most frequent value). Let $D^{}_{}$ be the difference between the mode and the arithmetic mean of the sample. What is the largest possible value of $\\lfloor D^{}_{}\\rfloor$ ? (For real $x^{}_{}$ , $\\lfloor x^{}_{}\\rfloor$ is the greatest integer less than or equal to $x^{}_{}$ .)",
+    "correct_answer": 947,
+    "year": 1989,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_182",
+    "benchmark": "aime",
+    "question": "Two long cylindrical tubes of the same length but different diameters lie parallel to each other on a flat surface . The larger tube has radius $72$ and rolls along the surface toward the smaller tube, which has radius $24$ . It rolls over the smaller tube and continues rolling along the flat surface until it comes to rest on the same point of its circumference as it started, having made one complete revolution. If the smaller tube never moves, and the rolling occurs with no slipping, the larger tube ends up a distance $x$ from where it starts. The distance $x$ can be expressed in the form $a\\pi+b\\sqrt{c},$ where $a,$ $b,$ and $c$ are integers and $c$ is not divisible by the square of any prime . Find $a+b+c.$",
+    "correct_answer": 179,
+    "year": 2007,
+    "part": "II",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_183",
+    "benchmark": "aime",
+    "question": "What is the largest positive integer $n$ for which there is a unique integer $k$ such that $\\frac{8}{15} < \\frac{n}{n + k} < \\frac{7}{13}$ ?",
+    "correct_answer": 112,
+    "year": 1987,
+    "part": "",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_184",
+    "benchmark": "aime",
+    "question": "One of Euler's conjectures was disproved in the 1960s by three American mathematicians when they showed there was a positive integer such that \\[133^5+110^5+84^5+27^5=n^{5}.\\] Find the value of $n$ .",
+    "correct_answer": 144,
+    "year": 1989,
+    "part": "",
+    "problem_number": 9,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_185",
+    "benchmark": "aime",
+    "question": "Rectangle $ABCD_{}^{}$ has sides $\\overline {AB}$ of length 4 and $\\overline {CB}$ of length 3. Divide $\\overline {AB}$ into 168 congruent segments with points $A_{}^{}=P_0, P_1, \\ldots, P_{168}=B$ , and divide $\\overline {CB}$ into 168 congruent segments with points $C_{}^{}=Q_0, Q_1, \\ldots, Q_{168}=B$ . For $1_{}^{} \\le k \\le 167$ , draw the segments $\\overline {P_kQ_k}$ . Repeat this construction on the sides $\\overline {AD}$ and $\\overline {CD}$ , and then draw the diagonal $\\overline {AC}$ . Find the sum of the lengths of the 335 parallel segments drawn.",
+    "correct_answer": 840,
+    "year": 1991,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_186",
+    "benchmark": "aime",
+    "question": "Evaluate the product \\[\\left(\\sqrt{5}+\\sqrt{6}+\\sqrt{7}\\right)\\left(\\sqrt{5}+\\sqrt{6}-\\sqrt{7}\\right)\\left(\\sqrt{5}-\\sqrt{6}+\\sqrt{7}\\right)\\left(-\\sqrt{5}+\\sqrt{6}+\\sqrt{7}\\right).\\]",
+    "correct_answer": 104,
+    "year": 1986,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_187",
+    "benchmark": "aime",
+    "question": "Given that $O$ is a regular octahedron, that $C$ is the cube whose vertices are the centers of the faces of $O,$ and that the ratio of the volume of $O$ to that of $C$ is $\\frac mn,$ where $m$ and $n$ are relatively prime integers, find $m+n.$ ",
+    "correct_answer": 11,
+    "year": 2005,
+    "part": "II",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_188",
+    "benchmark": "aime",
+    "question": "For how many ordered pairs $(x,y)$ of integers is it true that $0 < x < y < 10^{6}$ and that the arithmetic mean of $x$ and $y$ is exactly $2$ more than the geometric mean of $x$ and $y$ ?",
+    "correct_answer": 997,
+    "year": 2000,
+    "part": "I",
+    "problem_number": 6,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_189",
+    "benchmark": "aime",
+    "question": "Recall that a palindrome is a number that reads the same forward and backward. Find the greatest integer less than $1000$ that is a palindrome both when written in base ten and when written in base eight, such as $292 = 444_{\\text{eight}}.$",
+    "correct_answer": 585,
+    "year": 2023,
+    "part": "II",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_190",
+    "benchmark": "aime",
+    "question": "Find the smallest positive integer $n$ for which the expansion of $(xy-3x+7y-21)^n$ , after like terms have been collected, has at least 1996 terms.",
+    "correct_answer": 44,
+    "year": 1996,
+    "part": "",
+    "problem_number": 3,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_191",
+    "benchmark": "aime",
+    "question": "Let $a = \\pi/2008$ . Find the smallest positive integer $n$ such that \\[2[\\cos(a)\\sin(a) + \\cos(4a)\\sin(2a) + \\cos(9a)\\sin(3a) + \\cdots + \\cos(n^2a)\\sin(na)]\\] is an integer.",
+    "correct_answer": 251,
+    "year": 2008,
+    "part": "II",
+    "problem_number": 8,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_192",
+    "benchmark": "aime",
+    "question": "Ten points in the plane are given, with no three collinear.  Four distinct segments joining pairs of these points are chosen at random, all such segments being equally likely.  The probability that some three of the segments form a triangle whose vertices are among the ten given points is $m/n,$ where $m_{}$ and $n_{}$ are relatively prime positive integers.  Find $m+n.$ ",
+    "correct_answer": 489,
+    "year": 1999,
+    "part": "",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_193",
+    "benchmark": "aime",
+    "question": "Find the last three digits of the product of the positive roots of $\\sqrt{1995}x^{\\log_{1995}x}=x^2.$",
+    "correct_answer": 25,
+    "year": 1995,
+    "part": "",
+    "problem_number": 2,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_194",
+    "benchmark": "aime",
+    "question": "Twelve congruent disks are placed on a circle $C^{}_{}$ of radius 1 in such a way that the twelve disks cover $C^{}_{}$ , no two of the disks overlap, and so that each of the twelve disks is tangent to its two neighbors. The resulting arrangement of disks is shown in the figure below.  The sum of the areas of the twelve disks can be written in the form $\\pi(a-b\\sqrt{c})$ , where $a,b,c^{}_{}$ are positive integers and $c^{}_{}$ is not divisible by the square of any prime. Find $a+b+c^{}_{}$ . [asy] unitsize(100); draw(Circle((0,0),1)); dot((0,0)); draw((0,0)--(1,0)); label(\"$1$\", (0.5,0), S);  for (int i=0; i<12; ++i) { dot((cos(i*pi/6), sin(i*pi/6))); }  for (int a=1; a<24; a+=2) { dot(((1/cos(pi/12))*cos(a*pi/12), (1/cos(pi/12))*sin(a*pi/12))); draw(((1/cos(pi/12))*cos(a*pi/12), (1/cos(pi/12))*sin(a*pi/12))--((1/cos(pi/12))*cos((a+2)*pi/12), (1/cos(pi/12))*sin((a+2)*pi/12))); draw(Circle(((1/cos(pi/12))*cos(a*pi/12), (1/cos(pi/12))*sin(a*pi/12)), tan(pi/12))); } [/asy]",
+    "correct_answer": 135,
+    "year": 1991,
+    "part": "",
+    "problem_number": 11,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_195",
+    "benchmark": "aime",
+    "question": "Ed has five identical green marbles, and a large supply of identical red marbles. He arranges the green marbles and some of the red ones in a row and finds that the number of marbles whose right hand neighbor is the same color as themselves is equal to the number of marbles whose right hand neighbor is the other color. An example of such an arrangement is GGRRRGGRG. Let $m$ be the maximum number of red marbles for which such an arrangement is possible, and let $N$ be the number of ways he can arrange the $m+5$ marbles to satisfy the requirement. Find the remainder when $N$ is divided by $1000$ .",
+    "correct_answer": 3,
+    "year": 2011,
+    "part": "II",
+    "problem_number": 7,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  },
+  {
+    "case_id": "aime_196",
+    "benchmark": "aime",
+    "question": "How many of the first $1000$ positive integers can be expressed in the form $\\lfloor 2x \\rfloor + \\lfloor 4x \\rfloor + \\lfloor 6x \\rfloor + \\lfloor 8x \\rfloor$ , where $x$ is a real number, and $\\lfloor z \\rfloor$ denotes the greatest integer less than or equal to $z$ ?",
+    "correct_answer": 600,
+    "year": 1985,
+    "part": "",
+    "problem_number": 10,
+    "source": "https://huggingface.co/datasets/di-zhang-fdu/AIME_1983_2024"
+  }
+]
